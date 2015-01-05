@@ -1,0 +1,19 @@
+.. CMPS 369 documentation master file, created by
+   sphinx-quickstart on Sat Dec 14 07:48:15 2013.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+CMPS 369 - Web Application Development
+======================================
+
+Welcome to the online syllabus for CMPS 369.  For students enrolled in the course: lecture slides, assignment submission, and grades will be posted on `appiversity <http://www.appiversity.com>`_. 
+
+.. toctree::
+   :maxdepth: 2
+
+   intro
+   reqs
+   policy
+   sched
+   assignments
+

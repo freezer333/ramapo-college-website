@@ -1,0 +1,68 @@
+General Information
+########################
+Welcome to the online syllabus for CMPS 369.  For students enrolledin the course, lecture slides, assignment submission, and grades will be posted on appiversity.
+
+Course Description
+====================================
+This course provides in-depth treatment of the critical languages, design patterns, and technologies underpinning all of modern web application development. The basics of networking, along with the details of the HTTP protocol are introduced. HTML (through version 5), CSS (through version 3) are presented from the perspective of an application developer.
+
+JavaScript is covered as the primary language for both client side development (utilizing jQuery and other front-end libraries) and server side (utilizing the node.js library). Advanced JavaScript topics such as closures and asynchronous programming are covered in depth.
+
+The course also introduces the MVC (Model View Controller) architecture for web development and covers the Express framework including EJS and Jade templating. An overview of other popular languages and frameworks such as LESS, Ruby on Rails, ASP.NET MVC, and PHP are also provided to increase the breadth of the students' knowledge in the field.
+
+Note, this course is taught under the assumption that the student has programming knowledge and experience in an object-oriented language such as C++ or Java, as it JavaScript is used extensively throughout the  semester.  The emphasis of this course is web development from an application programmer's perspective.  It is a technical course, not suitable for students without an adequate background in computer science.
+
+Course Room & Time
+======================
+Class meets on Monday and Thursday mornings, 11:30am - 1:00pm.
+
+Lectures are held in ASB 429
+
+Office Hours / Contact Information
+===================================
+My office hours will be posted on my `web page <http://pages.ramapo.edu/~sfrees>`_.  When scheduling confilicts arise and I am unable to hold office hours, I will notify you via email.  Peer tutors will
+not be available for this course.
+
+The best way to contact me with any question is via `email <mailto:sfrees@ramapo.edu>`_
+
+Course Objectives
+=====================
+*	Networking Basics
+	
+	* TCP / IP
+	* Socket Programming in JavaScript
+	* The HTTP Protocol
+
+*	HTML
+
+	* Standard HTML elements and practices
+	* HTML Forms
+	* HTML 5 additions
+
+*	CSS
+	
+	* CSS Styling and Syntax
+	* Cascade Rules and Methods
+	* CSS Box Layout Model and Positioning
+	* Using dynamic CSS with LESS
+
+*	JavaScript
+	
+	* Language Fundementals
+	* JavaScript Object Notation (JSON)
+	* Understanding the DOM
+	* Client-side scripting with jQuery
+	* Using AJAX to communicate with the server
+	* Server-side with Node.js
+
+*	Web Application Frameworks
+
+	* Details of Express with Node.js
+	* Overview of ASP.NET MVC with C#
+	* Overview of Ruby on Rails
+
+*	Using Data
+
+	* Traditional SQL Databases
+	* Introduction to Redis
+	* Introduction to MongoDB

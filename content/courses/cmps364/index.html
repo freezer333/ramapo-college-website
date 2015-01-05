@@ -1,0 +1,292 @@
+<!doctype html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Scott Frees</title>
+
+<style type='text/css'>
+  *{margin:0;padding:0;}
+  body {
+    font:13.34px helvetica,arial,freesans,clean,sans-serif;
+    color:black;
+    line-height:1.4em;
+    background-color: #F8F8F8;
+    padding: 0.7em;
+  }
+  p {
+    margin:1em 0;
+    line-height:1.5em;
+  }
+  table {
+    font-size:inherit;
+    font:100%;
+    margin-top:1em;
+    margin-bottom:1em;
+  }
+  table th{border-bottom:1px solid #bbb;padding:.2em 1em;}
+  table td{border-bottom:1px solid #ddd;padding:.2em 1em;}
+  input[type=text],input[type=password],input[type=image],textarea{font:99% helvetica,arial,freesans,sans-serif;}
+  select,option{padding:0 .25em;}
+  optgroup{margin-top:.5em;}
+  pre,code{font:12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;}
+  pre {
+    margin:1em 0;
+    font-size:12px;
+    background-color:#eee;
+    border:1px solid #ddd;
+    padding:5px;
+    line-height:1.5em;
+    color:#444;
+    overflow:auto;
+    -webkit-box-shadow:rgba(0,0,0,0.07) 0 1px 2px inset;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;border-radius:3px;
+  }
+  pre code {
+    padding:0;
+    font-size:12px;
+    background-color:#eee;
+    border:none;
+  }
+  code {
+    font-size:12px;
+    background-color:#f8f8ff;
+    color:#444;
+    padding:0 .2em;
+    border:1px solid #dedede;
+  }
+  img{border:0;max-width:100%;}
+  abbr{border-bottom:none;}
+  a{color:#4183c4;text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  a code,a:link code,a:visited code{color:#4183c4;}
+  h2,h3{margin:1em 0;}
+  h1,h2,h3,h4,h5,h6{border:0;}
+  h1{font-size:170%;border-top:4px solid #aaa;padding-top:.5em;margin-top:1.5em;}
+  h1:first-child{margin-top:0;padding-top:.25em;border-top:none;}
+  h2{font-size:150%;margin-top:1.5em;border-top:4px solid #e0e0e0;padding-top:.5em;}
+  h3{margin-top:1em;}
+  hr{border:1px solid #ddd;}
+  ul{margin:1em 0 1em 2em;}
+  ol{margin:1em 0 1em 2em;}
+  ul li,ol li{margin-top:.5em;margin-bottom:.5em;}
+  ul ul,ul ol,ol ol,ol ul{margin-top:0;margin-bottom:0;}
+  blockquote{margin:1em 0;border-left:5px solid #ddd;padding-left:.6em;color:#555;}
+  dt{font-weight:bold;margin-left:1em;}
+  dd{margin-left:2em;margin-bottom:1em;}
+  sup {
+      font-size: 0.83em;
+      vertical-align: super;
+      line-height: 0;
+  }
+  * {
+    -webkit-print-color-adjust: exact;
+  }
+  @media screen and (min-width: 914px) {
+      body {
+          width: 854px;
+          margin:0 auto;
+      }
+  }
+  @media print {
+    table, pre {
+      page-break-inside: avoid;
+    }
+    pre {
+      word-wrap: break-word;
+    }
+  }
+
+
+</style>
+
+</head>
+<h1 id="cmps-364-spring-2015">CMPS 364 Spring 2015</h1>
+<h2 id="database-design">Database Design</h2>
+<p><strong>Meeting Time:  </strong>&nbsp;&nbsp;Thursdays, 6pm-9:15pm</p>
+<p><strong>Location:  </strong>&nbsp;&nbsp;ASB Room 426</p>
+<p><strong>Professor:</strong>&nbsp;&nbsp;Scott Frees, Associate Professor of Computer Science</p>
+<p><strong> Contact Information</strong><br>Office&nbsp;&nbsp;G315<br>Phone&nbsp;&nbsp;(201) 684-7726<br>Email&nbsp;&nbsp;<a href="mailto:sfrees@ramapo.edu">sfrees@ramapo.edu</a></p>
+<h2 id="course-description">Course Description</h2>
+<p>This course provides in-depth treatment of relational database design, the Structured Query Language (SQL), along with non-traditional databases such as key and document stores.<br>The first portion of the semester is dedicated to relational schema design, emphasizing normalization, ER and UML modeling, and aspects of the SQL DDL for creating constraints and relationships between data models.<br>The second segment of the semester is focused on SQL and query design. We will use the H2 database through the Java programming language, utilizing JDBC.<br>The third portion of the class is dedicated to a variety of different technologies related to data representation, storage, and retieval. This includes XML/XSLT, JSON and MongoDB, and the Redis key-store database.<br>While the course will include discussions on database security, data protection, and administration, the primary focus of the course is software development using databases.</p>
+<h2 id="pre-requisites">Pre-Requisites</h2>
+<p>CMPS 231 Data Structures</p>
+<h2 id="course-materials">Course Materials</h2>
+<p><strong>Textbook</strong> &nbsp;&nbsp; <a href="http://www.amazon.com/Database-Systems-Complete-Book-Edition/dp/0131873253">Database Systems - The Complete Book - 2nd Edition</a> by Garcia-Molina, Ullman, Widom</p>
+<p><img src='http://ecx.images-amazon.com/images/I/51JtltOJPVL.jpg' width="200"/></p>
+<p><em>Note, the textbook is required for this course, and will be relavent to nearly each lecture.</em></p>
+<h2 id="programming-environment">Programming Environment</h2>
+<p>This course will require you to write SQL and Java code. A simple text editor is all that is necessary, however installing a good programming editor is highly recommended. In addition, you will also need to install H2. H2 is a Java-based database implementation which is compatable with all major operating systems (Windows, Mac OS X, Linux) as long as Java has been installed on the system.  It is highly recommended that you have access to your own computer to do your development on.</p>
+<p>When we begin programming with Java, you are encouraged to download <a href="http://www.eclipse.org/downloads/">eclipse</a>. Please make sure you download and install the newest version of the standard edition (or the another more specialized edition). We will go over the creation of programs in eclipse during class time.</p>
+<h2 id="course-objectives">Course Objectives</h2>
+<ul>
+<li>Theoretical basis for relational database design</li>
+<li>Entity Relationship Diagrams</li>
+<li>UML Diagrams</li>
+<li>Structured Query Language (SQL)</li>
+<li>Advanced RDBMS topics such as</li>
+<li>Constraints and Triggers</li>
+<li>Views</li>
+<li>Index implementation</li>
+<li>Programming against Databases using Java (JDBC, JPA)</li>
+<li>XML and XPATH/XSLT</li>
+<li>Use of Document-store database (MongoDB)</li>
+</ul>
+<h2 id="lecture-schedule">Lecture Schedule</h2>
+<p>Below is a tentative schedule for the course.  All topics and due dates are subject to change, and if there is a difference between what is stated here and on Moodle, please always consider Moodle to be correct (and let me know so I can correct the mismatch!).</p>
+<p><strong>You must keep up with the readings</strong> associated with each lecture.  </p>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">Date</th>
+<th>Lecture Topic</th>
+<th>Slides</th>
+<th>Reading</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">1/22/2015</td>
+<td>Lecture 1</td>
+<td><a href="http://tinyurl.com/mq67r9j">Course Introduction</a><br><a href="http://tinyurl.com/ll5bn8r">Database Overview</a></td>
+<td>Chapter 1</td>
+</tr>
+<tr>
+<td style="text-align:right">1/29/2015</td>
+<td>Lecture 2</td>
+<td><a href="http://tinyurl.com/n2mxjwz">Relations and Schemas</a></td>
+<td>Chapter 2.1-2.5</td>
+</tr>
+<tr>
+<td style="text-align:right">2/5/2015</td>
+<td>Lecture 3</td>
+<td><a href="http://tinyurl.com/l4nmcpy">Introduction to SQL and H2</a></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">2/12/2015</td>
+<td>Lecture 4</td>
+<td><a href="http://tinyurl.com/lnl4ml4">Functional Dependencies, BCNF, 4th Normal Form</a></td>
+<td>Chapter 3</td>
+</tr>
+<tr>
+<td style="text-align:right">2/19/2015</td>
+<td></td>
+<td>Exam 1</td>
+<td>Chapters 1-3</td>
+</tr>
+<tr>
+<td style="text-align:right">2/26/2015</td>
+<td>Lecture 5</td>
+<td><a href="https://docs.google.com/presentation/d/1DP8JnWb7iL7tJxiqEku6HedWdgKDtPz5ZDLoBetJk3U/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.g262409d0f_025">UML and ER Diagrams</a></td>
+<td>Chapter 4.1-4.8</td>
+</tr>
+<tr>
+<td style="text-align:right">3/5/2015</td>
+<td>Lecture 6</td>
+<td><a href="https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&amp;loop=false&amp;delayms=3000">Query Logic and SQL</a></td>
+<td>Chapter 5.1-5.2 and 6</td>
+</tr>
+<tr>
+<td style="text-align:right">3/12/2015</td>
+<td>Lecture 7</td>
+<td><a href="https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&amp;loop=false&amp;delayms=3000&amp;slide=id.g2628f3916_111">SQL - continued</a></td>
+<td>Chapter 6</td>
+</tr>
+<tr>
+<td style="text-align:right">3/19/2015</td>
+<td></td>
+<td>Spring Break</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">3/26/2015</td>
+<td></td>
+<td>Exam 2</td>
+<td>Chapters 4-6</td>
+</tr>
+<tr>
+<td style="text-align:right">4/2/2015</td>
+<td>Lecture 8</td>
+<td><a href="https://docs.google.com/presentation/d/1JWVBILNsJMk07-uaBKJr3fOY-r5a7Ab0lgxfW-vf1sc/pub?start=false&amp;loop=false&amp;delayms=3000">Java and JDBC Programming</a></td>
+<td><a href="http://docs.oracle.com/javase/tutorial/java/">Java Tutorial</a></td>
+</tr>
+<tr>
+<td style="text-align:right">4/9/2015</td>
+<td>Lecture 9</td>
+<td><a href="https://docs.google.com/presentation/d/1J7tPs-Cw1mEInE4IzwQsbO4oFD9D-763QgenB4qw5X4/pub?start=false&amp;loop=false&amp;delayms=3000">Constraints, Assertions, and Triggers</a></td>
+<td>Chapter 7</td>
+</tr>
+<tr>
+<td style="text-align:right">4/16/2015</td>
+<td>Lecture 10</td>
+<td><a href="https://docs.google.com/presentation/d/1JFWHtyh0-7FtfMohYpBp4bFhmWzu8T-MDzJ50ZeMOS4/pub?start=false&amp;loop=false&amp;delayms=3000">Views and Indexes</a></td>
+<td>Chapter 8 and 14</td>
+</tr>
+<tr>
+<td style="text-align:right">4/23/2015</td>
+<td>Lecture 11</td>
+<td><a href="https://docs.google.com/presentation/d/1O8gvKb77FkL7Rtl8yKeDgMQM9Q7OlWuq_uDLon556cw/pub?start=false&amp;loop=false&amp;delayms=3000">XML and Xpath</a></td>
+<td>Chapter 11-12</td>
+</tr>
+<tr>
+<td style="text-align:right">4/30/2015</td>
+<td>Lecture 12</td>
+<td><a href="https://docs.google.com/presentation/d/1GHgI9iAZvfsNobjx4VaEMwU8bgRgSd8h6kKG3drViEA/pub?start=false&amp;loop=false&amp;delayms=3000">Alternative Database Technologies</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong> Final Exam is scheduled for Thursday, May 7 from 6:30 p.m. to 9:30 p.m </strong></p>
+<h2 id="homework-assignments">Homework Assignments</h2>
+<p>Homework assignments are worth between 50 and 100 points, and are turned in electronically as well.  </p>
+<ul>
+<li><a href="hw/hw1.html">Homework 1</a>  - Due on 2/5/15</li>
+<li><a href="hw/hw2.html">Homework 2</a>  - Due on 2/16/15</li>
+<li><a href="hw/hw3.html">Homework 3</a>  - Due on 3/5/15</li>
+<li><a href="hw/hw4.html">Homework 4</a>  - Due on 3/23/15</li>
+<li><a href="hw/hw5.pdf">Homework 5</a>  - Due on 4/23/15</li>
+</ul>
+<h2 id="late-policy">Late Policy</h2>
+<p>All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  </p>
+<h2 id="attendance-policy">Attendance Policy</h2>
+<p>Attendance will be recorded by the instructor and, along with class participation, will be a determining factor in making border-line final grade decisions</p>
+<h2 id="grading">Grading</h2>
+<p>Weekly short quizzes    10%    (8-11 throughout the semester)<br>Homework    20%    (3-5 throughout the semester)<br>Exams    45%    (3 exams)<br>Final Exam    25%</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">%</th>
+<th style="text-align:left">Activity</th>
+<th>Frequency/Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">5%</td>
+<td style="text-align:left">Weekly short quizzes</td>
+<td>5-8 throughout the semester</td>
+</tr>
+<tr>
+<td style="text-align:right">20%</td>
+<td style="text-align:left">Homework</td>
+<td>5 assignments</td>
+</tr>
+<tr>
+<td style="text-align:right">40%</td>
+<td style="text-align:left">Exams</td>
+<td>2 exams during the semester</td>
+</tr>
+<tr>
+<td style="text-align:right">30%</td>
+<td style="text-align:left">Final Exam</td>
+<td>Comprehensive</td>
+</tr>
+</tbody>
+</table>
+<h2 id="academic-integrity">Academic Integrity</h2>
+<p>Students are expected to read and understand Ramapo College’s Academic Integrity Policy, which can be found in the Ramapo College Catalog.  Members of the Ramapo College community are expected to be honest and forthright in their academic endeavors.  Students who are suspected of violating this policy will be referred to the Office of the Provost.</p>
+<h3 id="academic-integrity-specific-to-this-course">ACADEMIC INTEGRITY SPECIFIC TO THIS COURSE</h3>
+<p>For programming assignments (Homework Assignments), you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.  </p>
+<p>IF SHARING OF SOURCE CODE IS SUSPECTED, INTENTIONAL OR OTHERWISE, BOTH PARTIES WILL IMMEDIATELY BE REFERRED TO THE OFFICE OF THE PROVOST.</p>
+</html>

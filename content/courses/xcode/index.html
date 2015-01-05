@@ -1,0 +1,131 @@
+<!doctype html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Scott Frees</title>
+
+<style type='text/css'>
+  *{margin:0;padding:0;}
+  body {
+    font:13.34px helvetica,arial,freesans,clean,sans-serif;
+    color:black;
+    line-height:1.4em;
+    background-color: #F8F8F8;
+    padding: 0.7em;
+  }
+  p {
+    margin:1em 0;
+    line-height:1.5em;
+  }
+  table {
+    font-size:inherit;
+    font:100%;
+    margin-top:1em;
+    margin-bottom:1em;
+  }
+  table th{border-bottom:1px solid #bbb;padding:.2em 1em;}
+  table td{border-bottom:1px solid #ddd;padding:.2em 1em;}
+  input[type=text],input[type=password],input[type=image],textarea{font:99% helvetica,arial,freesans,sans-serif;}
+  select,option{padding:0 .25em;}
+  optgroup{margin-top:.5em;}
+  pre,code{font:12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;}
+  pre {
+    margin:1em 0;
+    font-size:12px;
+    background-color:#eee;
+    border:1px solid #ddd;
+    padding:5px;
+    line-height:1.5em;
+    color:#444;
+    overflow:auto;
+    -webkit-box-shadow:rgba(0,0,0,0.07) 0 1px 2px inset;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;border-radius:3px;
+  }
+  pre code {
+    padding:0;
+    font-size:12px;
+    background-color:#eee;
+    border:none;
+  }
+  code {
+    font-size:12px;
+    background-color:#f8f8ff;
+    color:#444;
+    padding:0 .2em;
+    border:1px solid #dedede;
+  }
+  img{border:0;max-width:100%;}
+  abbr{border-bottom:none;}
+  a{color:#4183c4;text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  a code,a:link code,a:visited code{color:#4183c4;}
+  h2,h3{margin:1em 0;}
+  h1,h2,h3,h4,h5,h6{border:0;}
+  h1{font-size:170%;border-top:4px solid #aaa;padding-top:.5em;margin-top:1.5em;}
+  h1:first-child{margin-top:0;padding-top:.25em;border-top:none;}
+  h2{font-size:150%;margin-top:1.5em;border-top:4px solid #e0e0e0;padding-top:.5em;}
+  h3{margin-top:1em;}
+  hr{border:1px solid #ddd;}
+  ul{margin:1em 0 1em 2em;}
+  ol{margin:1em 0 1em 2em;}
+  ul li,ol li{margin-top:.5em;margin-bottom:.5em;}
+  ul ul,ul ol,ol ol,ol ul{margin-top:0;margin-bottom:0;}
+  blockquote{margin:1em 0;border-left:5px solid #ddd;padding-left:.6em;color:#555;}
+  dt{font-weight:bold;margin-left:1em;}
+  dd{margin-left:2em;margin-bottom:1em;}
+  sup {
+      font-size: 0.83em;
+      vertical-align: super;
+      line-height: 0;
+  }
+  * {
+    -webkit-print-color-adjust: exact;
+  }
+  @media screen and (min-width: 914px) {
+      body {
+          width: 854px;
+          margin:0 auto;
+      }
+  }
+  @media print {
+    table, pre {
+      page-break-inside: avoid;
+    }
+    pre {
+      word-wrap: break-word;
+    }
+  }
+
+
+</style>
+
+</head>
+<h1 id="creating-and-running-c-programs-in-xcode">Creating and Running C++ programs in Xcode</h1>
+<p>The intended audience for this document is CMPS 147 and CMPS 148 students who are using Xcode instead of Microsoft Visual Studio to build their C++ programs.  Note, the way &quot;pros&quot; use Xcode and the way I&#39;m telling you how to use Xcode is very different.  I&#39;ve explained how to use Xcode in a way that is most similar to how we use Visual Studio and the command prompt in class/lectures.</p>
+<h2 id="setting-up-your-xcode-project">Setting up your Xcode project</h2>
+<p>Launch Xcode (it should be in your Applications folder).  If you haven&#39;t installed it, download it from the Apple App Store (search for Xcode).  It is free.</p>
+<p><strong>On startup</strong>, select &quot;Create a new Xcode project&quot;<br><img src="welcome.png"/></p>
+<p><strong>Next</strong>, choose the command line tool template</p>
+<p><img src="tool_type.png"/></p>
+<p><strong>Next</strong>, choose C++ project type and name your project.</p>
+<p><img src="project_type.png"/></p>
+<p><strong>Next</strong>, you must choose a location for your project.  Be careful to make sure you remember where you&#39;ve chosen!</p>
+<p><img src="location.png"/></p>
+<p>At this point, you should have the full project created.  You&#39;ll see something like this:</p>
+<p><img src="ready.png"/></p>
+<h2 id="adjusting-some-preferences">Adjusting some preferences</h2>
+<p>From the top menu, choose Xcode/Preferences.  Choose the &quot;Locations&quot; tab, and click &quot;Advanced&quot;</p>
+<p><img src="advanced.png"/></p>
+<p>Select <strong>&quot;Legacy&quot;</strong> from the Build Location options.  This option will make sure your executable always goes in an easy to find location.</p>
+<p><img src="legacy.png"/></p>
+<h2 id="examine-your-code">Examine your code</h2>
+<p>Xcode automatically creates a <code>main.cpp</code> file for you, with a standard &quot;Hello World&quot; in it.  Just click the source file to see the code.</p>
+<p><img src="source.png"/></p>
+<h2 id="building-and-running">Building and Running</h2>
+<p>To build, you can type Command+B  (Apply Key + B).  Or, you can <strong>Product</strong> and then <strong>Build</strong> from the top menu bar.  This will create an executable program named after your project name in the <code>/build/Debug</code> folder.</p>
+<p><img src="debug.png"/></p>
+<p>To run your project, Open the <strong>Terminal</strong> application.  Change directories to your project&#39;s debug folder and type the name of your executable to run.</p>
+<p><img src="run.png"/></p>
+</html>

@@ -1,0 +1,37 @@
+===================
+Course Schedule
+===================
+
+The following is the tentative schedule for the course.  During the semester, every effort will be made to keep this up to date, however the most accurate information about topics, course cancellation, and assignments will always be found on `appiversity <http://www.appiversity.com>`_.
+
+
+
+======== ============= ===================================== =======================  
+Week     Date          Topics                                Lecture Slides
+======== ============= ===================================== =======================
+Week 1   1/23          Course Introduction                   `L01 <http://tinyurl.com/m9etc9d>`_
+Week 2   1/27 - 1/30   Basics of Networking, Socket          `L02 <http://tinyurl.com/n3z4eom>`_
+                       Programming, Node.js                  
+Week 3   2/3 - 2/6     HTTP Protocol and Serving             `L03 <http://tinyurl.com/n5tghnr>`_
+                       HTML to the Browser                     
+Week 4   2/10 - 2/13   JavaScript - Language                 `L04 <http://tinyurl.com/me2h8dx>`_
+                       Elements, Functions, Closures,        `L05 <http://tinyurl.com/k26kthe>`_
+                       and Asynchronous Programming          `L06 <http://tinyurl.com/mqcx6xa>`_
+                                                             `L07 <http://tinyurl.com/mwgfwf8>`_
+Week 5   2/17 - 2/20   HTML Forms and Serving Dynamics HTML  `L08 <http://tinyurl.com/mrnlmeb>`_
+Week 6   2/24 - 2/27   EJS and Exam 1                        `L09 <http://tinyurl.com/mlncflq>`_
+Week 7   3/3 - 3/6     EJS and Sessions
+Week 8   3/10 - 3/13   CSS
+Week 9   3/17 - 3/20   Spring Break (No classes held)
+Week 10  3/24 - 3/27   JavaScript in the browser:  DOM 
+                       manipulation with jQuery
+Week 11  3/31 - 4/3    jQuery and AJAX 
+                       
+Week 12  4/7 - 4/10    Exam 2
+Week 13  4/14 - 4/17   Express MVC Framework with Jade 
+                       templates
+Week 14  4/21 - 4/24   REST, and Web Sockets, Deployment
+Week 15  4/28 - 5/1    Survey of Web Frameworks
+Week 16  5/5           Review / Help Session for Final 
+                       Project  
+======== ============= ===================================== =======================

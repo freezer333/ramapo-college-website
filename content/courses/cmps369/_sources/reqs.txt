@@ -1,0 +1,49 @@
+Course Requirements
+####################
+This course is taught under the assumption that the student has programming knowledge and experience in an object-oriented language such as C++ or Java, as it JavaScript is used extensively throughout the  semester.  The emphasis of this course is web development from an application programmer's perspective.  It is a technical course, not suitable for students without an adequate background in computer science.
+
+
+Pre-Requisites
+====================================
+**CMPS 311** - Operating Systems
+
+*No prior experience in web development is required, however students are expected to have strong programming skills in an object oriented language such as C++, Java, or C# prior to taking this course.*
+
+Text Books
+==================
+
+| `Beginning HTML and CSS <http://www.amazon.com/Beginning-HTML-CSS-Rob-Larsen/dp/1118340183>`_ 
+| by Rob Larson
+| ISBN-10: 1118340183
+| ISBN-13: 978-1118340189 
+| **Required**
+
+| `JavaScript - the definitive guide - 6th Edition <http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527>`_
+| by David Flanagan
+| ISBN-10: 0596805527
+| ISBN-13: 978-0596805524 
+| **Required**
+
+| `Professional Node.js:  Building Javascript Based Scalable Software <http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable/dp/1118185463>`_ 
+| by Pedro Tiexeira
+| ISBN-10: 1118185463
+| ISBN-13: 978-1118185469 
+| **Recommended** (highly)
+
+Computers / Material
+====================
+This course will require you to write HTML, CSS, and JavaScript code.  A simple text editor is all that is necessary, however installing a good programming editor is highly recommended.  In addition, you will also need to install `Node.js <http://nodejs.org/>`_.  Node.js, along with many programming text editors, are available on all major operating systems (Windows, Mac OS X, Linux).  
+
+It is highly recommended that you have access to your own computer to do your development on, most machines in college labs will not have Node.js installed.  However, for assignments only dealing with client-side programming, you may be able to use any machine in the labs.
+
+Recommended Programming Editors
+===============================
+While your basic text editor will allow you to write HTML/CSS and JavaScript, it can be quite error prone without an editor that supports automatic indentation and syntax highlighting.  There are many possibilities.  If you wish, you can also use larger integrated develoment environments (IDE), such as Microsoft Visual Studio or eclipse.  Use of a full-fledged IDE is not absolutely necessary however, and many web developers prefer to use light-weight editors such as those listed below.
+
+* `Sublime Text <http://www.sublimetext.com/>`_ - **(highly recommended)** - runs on Windows, Mac OSX, Linux.  
+
+	* 	Note, the free trial works forever...
+
+* `UltraEdit <http://www.ultraedit.com/>`_ - runs on Windows, Mac OSX, and Linux
+* `Crimson Editor <http://www.crimsoneditor.com/>`_ - Windows only
+

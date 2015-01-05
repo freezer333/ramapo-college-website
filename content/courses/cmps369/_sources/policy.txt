@@ -1,0 +1,18 @@
+=================
+Course Policies
+=================
+
+#################
+Grading Policy
+#################
+
+==================== ======= ================================
+Attendance           5%
+Homework             15%     (4-6 throughout the semester)
+Programming Projects 20%     (2-3 throughout the semester)
+Exams                40%     (2 exams)
+Final Project        20%     (in place of final exam)
+==================== ======= ================================
+
+.. include:: ../../sylb_shared/_policy.rst
+

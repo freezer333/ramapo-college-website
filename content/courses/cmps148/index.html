@@ -1,0 +1,534 @@
+<!doctype html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Scott Frees</title>
+
+<style type='text/css'>
+  *{margin:0;padding:0;}
+  body {
+    font:13.34px helvetica,arial,freesans,clean,sans-serif;
+    color:black;
+    line-height:1.4em;
+    background-color: #F8F8F8;
+    padding: 0.7em;
+  }
+  p {
+    margin:1em 0;
+    line-height:1.5em;
+  }
+  table {
+    font-size:inherit;
+    font:100%;
+    margin-top:1em;
+    margin-bottom:1em;
+  }
+  table th{border-bottom:1px solid #bbb;padding:.2em 1em;}
+  table td{border-bottom:1px solid #ddd;padding:.2em 1em;}
+  input[type=text],input[type=password],input[type=image],textarea{font:99% helvetica,arial,freesans,sans-serif;}
+  select,option{padding:0 .25em;}
+  optgroup{margin-top:.5em;}
+  pre,code{font:12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;}
+  pre {
+    margin:1em 0;
+    font-size:12px;
+    background-color:#eee;
+    border:1px solid #ddd;
+    padding:5px;
+    line-height:1.5em;
+    color:#444;
+    overflow:auto;
+    -webkit-box-shadow:rgba(0,0,0,0.07) 0 1px 2px inset;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;border-radius:3px;
+  }
+  pre code {
+    padding:0;
+    font-size:12px;
+    background-color:#eee;
+    border:none;
+  }
+  code {
+    font-size:12px;
+    background-color:#f8f8ff;
+    color:#444;
+    padding:0 .2em;
+    border:1px solid #dedede;
+  }
+  img{border:0;max-width:100%;}
+  abbr{border-bottom:none;}
+  a{color:#4183c4;text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  a code,a:link code,a:visited code{color:#4183c4;}
+  h2,h3{margin:1em 0;}
+  h1,h2,h3,h4,h5,h6{border:0;}
+  h1{font-size:170%;border-top:4px solid #aaa;padding-top:.5em;margin-top:1.5em;}
+  h1:first-child{margin-top:0;padding-top:.25em;border-top:none;}
+  h2{font-size:150%;margin-top:1.5em;border-top:4px solid #e0e0e0;padding-top:.5em;}
+  h3{margin-top:1em;}
+  hr{border:1px solid #ddd;}
+  ul{margin:1em 0 1em 2em;}
+  ol{margin:1em 0 1em 2em;}
+  ul li,ol li{margin-top:.5em;margin-bottom:.5em;}
+  ul ul,ul ol,ol ol,ol ul{margin-top:0;margin-bottom:0;}
+  blockquote{margin:1em 0;border-left:5px solid #ddd;padding-left:.6em;color:#555;}
+  dt{font-weight:bold;margin-left:1em;}
+  dd{margin-left:2em;margin-bottom:1em;}
+  sup {
+      font-size: 0.83em;
+      vertical-align: super;
+      line-height: 0;
+  }
+  * {
+    -webkit-print-color-adjust: exact;
+  }
+  @media screen and (min-width: 914px) {
+      body {
+          width: 854px;
+          margin:0 auto;
+      }
+  }
+  @media print {
+    table, pre {
+      page-break-inside: avoid;
+    }
+    pre {
+      word-wrap: break-word;
+    }
+  }
+
+
+</style>
+
+</head>
+<h1 id="cmps-148-spring-2015">CMPS 148 Spring 2015</h1>
+<h2 id="introduction-to-computer-science-2">Introduction to Computer Science 2</h2>
+<p><strong>Meeting Time:  </strong>9:45am-11:15am<br><strong>Location:  </strong>ASB 429<br><strong>Professor:</strong>&nbsp;&nbsp;Scott Frees, Associate Professor of Computer Science<br><strong> Contact Information</strong></p>
+<p>Office&nbsp;&nbsp;G315<br>Phone&nbsp;&nbsp;(201) 684-7726<br>Email&nbsp;&nbsp;<a href="mailto:sfrees@ramapo.edu">sfrees@ramapo.edu</a></p>
+<h2 id="course-description">Course Description</h2>
+<p>An introduction to programming methodology including:  basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.</p>
+<h2 id="online-access">Online access</h2>
+<p>While all modules/assignments are accessible from this site, we will use <a href="http://moodle.ramapo.edu">moodle</a> to submit all programming assignments electronically.  If you have any difficulty - please ask me (email me) right away!</p>
+<h3 id="how-to-get-help-">How to get help:</h3>
+<p>I will respond to emails very quickly, so whenever you are struggling with a concept, program, or anything else - please get in touch.  It is best to send me your code as an attachment with any email, so I can see precisely what you are doing.  </p>
+<h2 id="pre-requisites">Pre-Requisites</h2>
+<p>CMPS 147, 100 level General Education Math.</p>
+<h2 id="course-materials">Course Materials</h2>
+<p>You must have access to the internet and a computer suitable for installing Microsoft Visual Studio (i.e. any computer running Microsoft Windows 7 or Windows 8).   Microsoft Visual Studio is freely available - please consult the directions/tuturial <a href="vs/VisualStudioAtHome.html">located here</a>.</p>
+<p>If you have a Mac (or run Linux), you will be<br>able to install similar programs on these machines.  For a Mac, please see my notes <a href="../xcode/">here</a>.  If you are using another operating system, please contact me for help if needed.</p>
+<p>You are required to obtain a copy of the textbook for this course, which will be an extremely critical resource<br>used throughout the semester.  The textbook can be purchased at the college bookstore, or easily online (click image link below):</p>
+<p><strong>Textbook</strong>  <a href="http://www.amazon.com/Introduction-Programming-3rd-Daniel-Liang/dp/0133252817/ref=sr_1_fkmr3_3?ie=UTF8&amp;qid=1417271048&amp;sr=8-3-fkmr3&amp;keywords=Introduction+to+Programming+with+C%2B%2B+%28Brief+Version%29%3B+Lang%2C+Y.+Daniel%3B+ISBN%3A++0-13-232049">Introduction to Programming with C++ (3rd Edition)</a>, by Daniel Liang - ISBN-10: 0133252817</p>
+<p><a href='http://www.amazon.com/Introduction-Programming-3rd-Daniel-Liang/dp/0133252817/ref=sr_1_fkmr3_3?ie=UTF8&qid=1417271048&sr=8-3-fkmr3&keywords=Introduction+to+Programming+with+C%2B%2B+%28Brief+Version%29%3B+Lang%2C+Y.+Daniel%3B+ISBN%3A++0-13-232049'><img src='http://ecx.images-amazon.com/images/I/516vxstfV%2BL.jpg' height='200' width='140'/></a></p>
+<h1 id="course-objectives">Course Objectives</h1>
+<ul>
+<li>Computer organization, Evolution/History of Programming Languages</li>
+<li>How to write and compile programs in several environments</li>
+<li>Data Types, Arithmetic and Logical Operators, Operator Precedence</li>
+<li>Console Input / Output</li>
+<li>Conditional / Branch Mechanisms</li>
+<li>Loops</li>
+<li>Arrays</li>
+<li>Searching &amp; Sorting</li>
+<li>Strings</li>
+<li>Functions and Subroutines</li>
+<li>File I/O</li>
+<li>Classes and Object Oriented Programming (Polymorphism)</li>
+<li>Pointers</li>
+<li>Templates</li>
+<li>Standard Template Library</li>
+<li>Peer Code Review</li>
+<li>Testing and Analysis of Code</li>
+</ul>
+<h2 id="lecture-schedule">Lecture Schedule</h2>
+<p>Below is a tentative schedule for the course.  All topics and due dates are subject to change, and if there is a difference between what is stated here and on Moodle, please always consider Moodle to be correct (and let me know so I can correct the mismatch!).</p>
+<p><strong>You must keep up with the readings</strong> associated with each lecture.  </p>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">Date</th>
+<th>Lecture Topic</th>
+<th>Description</th>
+<th>Reading</th>
+<th>Lab</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">1/22/2015</td>
+<td>Lecture 1</td>
+<td><a href="lects/Lecture01.pdf">Course Introduction</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">1/26/2015</td>
+<td>Lecture 2</td>
+<td><a href="lects/Lecture02.pdf">Review of C++ Basics</a></td>
+<td>Chapters 1-4</td>
+<td><a href="Labs/lab1/">Lab 1</a></td>
+</tr>
+<tr>
+<td style="text-align:right">1/29/2015</td>
+<td>Lecture 3</td>
+<td><a href="lects/Lecture03.pdf">Loops</a></td>
+<td>Chapter 5</td>
+<td><a href="Labs/lab2/">Lab 2</a></td>
+</tr>
+<tr>
+<td style="text-align:right">2/2/2015</td>
+<td>Lecture 4</td>
+<td><a href="lects/Lecture04-05.pdf">Functions</a></td>
+<td>Chapter 6</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">2/5/2015</td>
+<td>Lecture 5</td>
+<td><a href="lects/Lecture04-05.pdf">Functions</a></td>
+<td>Chpater 6</td>
+<td><a href="Labs/lab3/">Lab 3</a></td>
+</tr>
+<tr>
+<td style="text-align:right">2/9/2015</td>
+<td>Lecture 6</td>
+<td><a href="lects/Lecture06.pdf">Arrays</a></td>
+<td>Chapter 7</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">2/12/2015</td>
+<td>Lecture 7</td>
+<td><a href="lects/Lecture07.pdf">Recursion</a></td>
+<td>Chapter 17</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">2/16/2015</td>
+<td>Lecture 8</td>
+<td><a href="lects/Lecture08-09.pdf">Pointers</a></td>
+<td>Chapter 11</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">2/19/2015</td>
+<td>Lecture 9</td>
+<td><a href="lects/Lecture08-09.pdf">Pointers</a></td>
+<td>Chapter 11</td>
+<td><a href="Labs/lab4/">Lab 4</a></td>
+</tr>
+<tr>
+<td style="text-align:right">2/23/2015</td>
+<td></td>
+<td>Exam 1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">2/26/2015</td>
+<td></td>
+<td>Exam 1 Review/Solutions</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">3/2/2015</td>
+<td>Lecture 10</td>
+<td><a href="lects/Lecture10-11.pdf">Classes Part1</a></td>
+<td>Chapter 9</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">3/5/2015</td>
+<td>Lecture 11</td>
+<td><a href="lects/Lecture10-11.pdf">Classes Part1</a></td>
+<td>Chpater 9</td>
+<td><a href="Labs/lab5/">Lab 5</a></td>
+</tr>
+<tr>
+<td style="text-align:right">3/9/2015</td>
+<td>Lecture 12</td>
+<td><a href="lects/Lecture12-13.pdf">Classes Part2</a></td>
+<td>Chapter 10</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">3/12/2015</td>
+<td>Lecture 13</td>
+<td><a href="lects/Lecture12-13.pdf">Classes Part2</a></td>
+<td>Chapter 10</td>
+<td><a href="Labs/lab6/">Lab 6</a></td>
+</tr>
+<tr>
+<td style="text-align:right">3/16/2015</td>
+<td></td>
+<td>Spring Break</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">3/19/2015</td>
+<td></td>
+<td>Spring Break</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">3/23/2015</td>
+<td>Lecture 14</td>
+<td><a href="lects/Lecture14-15.pdf">Classes Part 4 (Polymorphism)</a></td>
+<td>Chapter 15</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">3/26/2015</td>
+<td>Lecture 15</td>
+<td><a href="lects/Lecture14-15.pdf">Classes Part 4 (Polymorphism)</a></td>
+<td>Chapter 15</td>
+<td><a href="Labs/lab7/">Lab 7</a></td>
+</tr>
+<tr>
+<td style="text-align:right">3/30/2015</td>
+<td></td>
+<td>Review for Exam 2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/2/2015</td>
+<td></td>
+<td>Exam 2 Object Oriented Programming]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/6/2015</td>
+<td></td>
+<td>Exam 2 turnback, intro to File I/0]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/9/2015</td>
+<td>Lecture 16</td>
+<td><a href="lects/Lecture16.pdf">File I/O</a></td>
+<td>Chaptr 13</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/13/2015</td>
+<td>Lecture 17</td>
+<td><a href="lects/Lecture17.pdf">Operator Overloading</a></td>
+<td>Chapter 14</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/16/2015</td>
+<td>Lecture 18</td>
+<td><a href="lects/Lecture18.pdf">Exceptions</a></td>
+<td>Chapter 16</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/20/2015</td>
+<td>Lecture 19</td>
+<td><a href="lects/Lecture19-20.pdf">Linked List</a></td>
+<td>Chapter 20</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/23/2015</td>
+<td>Lecture 20</td>
+<td><a href="lects/Lecture19-20.pdf">Linked List</a></td>
+<td>Chapter 20</td>
+<td><a href="Labs/lab8/">Lab 8</a></td>
+</tr>
+<tr>
+<td style="text-align:right">4/27/2015</td>
+<td>Lecture 21</td>
+<td><a href="lects/Lecture21.pdf">Templates</a></td>
+<td>Chpater 12</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">4/30/2015</td>
+<td>Lecture 22</td>
+<td><a href="lects/Lecture22.pdf">Vectors</a></td>
+<td>Chapter 22</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:right">5/4/2015</td>
+<td></td>
+<td>Review for Final Exam</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="programming-examples">Programming Examples</h2>
+<p>The majority of lectures will include several programming examples.  Source code for solutions to the programming examples is also provided on moodle.  .</p>
+<h1 id="course-assignments">Course Assignments</h1>
+<p>You learn to program best by… programming a lot!  In this course I will be expecting you to write 3-4 programs each week of varying length.  These will be in the form of Labs and Homework programs.  You must submit all programs on moodle through the appropriate assignment links at the top of the course page.  It is imperative that you only submit the .cpp (source code) files when turning in your assignments.  I will build your programs and run them, so always triple check that you are submitting source code, and not some other Visual Studio related file (there are many!).  Note, in the first Module’s video, I will provided details instructions on how to get this right.</p>
+<h2 id="labs">Labs</h2>
+<p>The last half of som lectures will be used as a lab period, where you will be given programming assignments to reinforce lecture topic.  The labs are designed to require about 45 minutes of your time.  Labs are to be completed in class, but if you are unable to finish before the end of the period, you may turn them in any time before the next lecture.  <strong>No late labs will be accepted</strong>.  You are <strong>not</strong> allowed to leave class early without completing the lab - if you do so you will recieve a 0 on the lab.</p>
+<p>Labs represent 10% of your semester grade, so each lab is actually only slightly more than 1% of your overall grade.  Labs will be graded generously, and honest attempt at completing the problem will result in a 7 or 8 out of 10 points.  A working program will earn a 10/10.  The purpose of these labs is so I can review your progress each week and provide feedback to you.  Please make every attempt to complete each on by the assigned due date.</p>
+<table>
+<thead>
+<tr>
+<th>Lab Assignment</th>
+<th>Due Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="Labs/lab1/">Lab 1</a></td>
+<td>1/29/2015 @9:45am</td>
+</tr>
+<tr>
+<td><a href="Labs/lab2">Lab 2</a></td>
+<td>2/2/2015 @9:45am</td>
+</tr>
+<tr>
+<td><a href="Labs/lab3">Lab 3</a></td>
+<td>2/9/2015 @9:45am</td>
+</tr>
+<tr>
+<td><a href="Labs/lab4">Lab 4</a></td>
+<td>2/23/2015 @9:45am</td>
+</tr>
+<tr>
+<td><a href="Labs/lab5">Lab 5</a></td>
+<td>3/9/2015 @9:45am</td>
+</tr>
+<tr>
+<td><a href="Labs/lab6">Lab 6</a></td>
+<td>3/23/2015 @9:45am</td>
+</tr>
+<tr>
+<td><a href="Labs/lab7">Lab 7</a></td>
+<td>3/30/2015 @9:45am</td>
+</tr>
+<tr>
+<td><a href="Labs/lab8">Lab 8</a></td>
+<td>4/27/2015 @9:45am</td>
+</tr>
+</tbody>
+</table>
+<h2 id="homework">Homework</h2>
+<p>There are five assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 25% of your semester grade, each being 5%.  Unlike labs, late homework will be accepted, with a penalty of 5 points per day late.  Homework more than 5 days late will not be accepted.</p>
+<table>
+<thead>
+<tr>
+<th>Link to Homework Assignment</th>
+<th>Due Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="HW/HW1.pdf">Homework 1</a></td>
+<td>2/12/2015 (@11:59pm)</td>
+</tr>
+<tr>
+<td><a href="HW/HW2.pdf">Homework 2</a></td>
+<td>2/23/2015 (@11:59pm)</td>
+</tr>
+<tr>
+<td><a href="HW/HW3.pdf">Homework 3</a></td>
+<td>3/23/2015 (@11:59pm)</td>
+</tr>
+<tr>
+<td><a href="HW/HW4.pdf">Homework 4</a></td>
+<td>4/23/2015 (@11:59pm)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="exams-2-quizzes-and-final-exam-">Exams (2 quizzes and Final Exam)</h2>
+<p>All exams are open book, open notes, and open computer/internet - but you must use the machines in our labs.   The only thing you are not allowed to use is any social media/email/chat program that can allow you to communicate with others.  Exams will be a mix of actual coding, and some written questions.</p>
+<h1 id="grading">Grading</h1>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">%</th>
+<th style="text-align:left">Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">5%</td>
+<td style="text-align:left">Attendance</td>
+</tr>
+<tr>
+<td style="text-align:right">10%</td>
+<td style="text-align:left">In Class Labs</td>
+</tr>
+<tr>
+<td style="text-align:right">25%</td>
+<td style="text-align:left">Homework Programs</td>
+</tr>
+<tr>
+<td style="text-align:right">15%</td>
+<td style="text-align:left">Quiz 1 (2/23/15)</td>
+</tr>
+<tr>
+<td style="text-align:right">20%</td>
+<td style="text-align:left">Quiz 2 (4/2/15)</td>
+</tr>
+<tr>
+<td style="text-align:right">25%</td>
+<td style="text-align:left">Final Exam</td>
+</tr>
+</tbody>
+</table>
+<h2 id="letter-grade-assignment">Letter Grade Assignment</h2>
+<table>
+<thead>
+<tr>
+<th>Letter</th>
+<th>Numeric Score</th>
+<th>Letter</th>
+<th>Numeric Score</th>
+<th>Letter</th>
+<th>Numeric Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>100-94</td>
+<td>A-</td>
+<td>93-90</td>
+</tr>
+<tr>
+<td>B+</td>
+<td>89-87</td>
+<td>B</td>
+<td>86-84</td>
+<td>B-</td>
+<td>83-80</td>
+</tr>
+<tr>
+<td>C+</td>
+<td>79-77</td>
+<td>C</td>
+<td>76-74</td>
+<td>C-</td>
+<td>73-70</td>
+</tr>
+<tr>
+<td>D+</td>
+<td>69-67</td>
+<td>D</td>
+<td>66-60</td>
+<td>F</td>
+<td>&lt; 60</td>
+</tr>
+</tbody>
+</table>
+<h2 id="policy-on-academic-integrity">Policy on Academic Integrity</h2>
+<p>Students are expected to read and understand Ramapo College’s Academic Integrity Policy, which can be found in the Ramapo College Catalog.  Members of the Ramapo College community are expected to be honest and forthright in their academic endeavors.  Students who are suspected of violating this policy will be referred to the Office of the Provost.</p>
+<p>When completing lab programming exercises, you may review code with your fellow students; however, copying source code is strictly forbidden.  For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.</p>
+<h2 id="cec-course-enrichment-component-">CEC - Course Enrichment Component:</h2>
+<p>Towards the end of the semester, one homework assignment will be selected as part of a “Code Review”.  Each program submitted for the particular assignment will have all author-identifying information removed from its source code and redistributed, at random, to students.  Thus, each student will have someone else’s program.  The students are asked to judge the program’s technical accuracy and overall quality.  Understanding others’ code, and having the ability to test code in which you have not written, is a fundamental part of software development (see learning objectives “Peer Code Review”, “Testing and Analysis”) and the CEC component directly addresses this outcome.  Assessment of the quality of your review will be based on a comparison of your findings and the actual grade given to the real author on the assignment.</p>
+<h1 id="students-with-disabilities-">Students with Disabilities:</h1>
+<p>If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.</p>
+</html>
