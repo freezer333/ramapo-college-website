@@ -1,5 +1,4 @@
-# HNRS 420 - Lecture 12 <br/><br/>Emerging Technologies
-
+# HNRS 420 - Lecture 11 <br/><br/>Emerging Technologies
 
 Survey of many future computing advancements - quantum computing, artificial intelligence, autonomous vehicles, virtual reality
 
@@ -11,8 +10,8 @@ Survey of many future computing advancements - quantum computing, artificial int
   * [3 Oculus Rift Apps That Prove Virtual Reality Goes Far Beyond Gaming](http://www.bloomberg.com/news/2014-10-29/3-oculus-rift-apps-that-prove-virtual-reality-goes-far-beyond-gaming.html)
 
 
-## Course Material
-Link to powerpoint slides
+## Lecture Slides
+TBD
 
 
 ## Course Discussion / Outline

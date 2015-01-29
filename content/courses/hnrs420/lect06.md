@@ -1,14 +1,13 @@
 # HNRS 420 - Lecture 6 <br/><br/>The NSA, spying, and cyberterrorism
 
-
-What happened, what can they do?  We'll cover Snowden, Iran nuclear cyber attach, etc.
+We'll discuss what capabilities government agencies have for collecting data about citizens, other countries, and other organizations.  We'll discuss the PRISM program, the disclosures made by Edward Snowden, Iran nuclear cyber attack, etc.
 
 ## Reading List
+- [The Whole Haystack](http://www.newyorker.com/magazine/2015/01/26/whole-haystack)
+- more to come 
+
+## Lecture Slides
 TBD
-
-## Course Material
-Link to powerpoint slides
-
 
 ## Course Discussion / Outline
 **Presenations(1b)** Each group (5 groups of 3) will present on different specific instance of hacking, how it could have been prevented, etc.)

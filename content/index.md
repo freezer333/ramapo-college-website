@@ -20,7 +20,7 @@ Mahwah, NJ 07430
 |CMPS 364 - [Database Design](courses/cmps364)| ASB 426 | Thursday | 6:00pm - 9:00pm|
 |HNRS 420 - [Computation and Society](courses/hnrs420) | A 108 | Monday|2:00pm - 5:15pm|
 
-**Office Hours**:  Wednesdays 9-11am or by appointment
+**Office Hours**:  Tuesdays 9-10:30am, Thursdays 1-2:30, or by appointment
 
 [See all the courses I teach on a regular basis](courses/courses.html)
 

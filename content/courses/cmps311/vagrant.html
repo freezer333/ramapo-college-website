@@ -145,6 +145,10 @@ $ vagrant up
 <p>To connect to separate machines you generally use ssh - a network protocol for logging in and interacting with unix-based operating systems from the command line.  You can use ssh to connect to your new linux machine running in the backgroun too - type the following:</p>
 <pre><code>$ vagrant ssh
 </code></pre><p>Once the ssh shell has started, you are logged into linux and can issue commands.</p>
+<h3 id="problems-with-git">Problems with git</h3>
+<p>After typing <code>vagrant ssh</code> you might see a message something like this:</p>
+<pre><code>&#39;ssh&#39; executable not found in any directories in the %PATH% variable.  Is an ssh client installed?....
+</code></pre><p>This means you do not have a version of git on your machine - which is easy to get.  For Windows, download and install the <a href="http://git-scm.com/download/win">windows git</a>.  For a Mac, get the <a href="http://git-scm.com/download/mac">OS X version</a>.  After installing git fully, <strong>close the command prompt</strong> and start with a new command prompt (cd to your linux directory, and try <code>vagrant ssh</code> again).</p>
 <h2 id="testing-things-out-test-c">Testing things out - test.c</h2>
 <p>We&#39;ll program mostly in C in this course.  Lets use the build tools, in conjunction with our own editor, to build and run a simple program that says hello, and tells us what operating system we are running.</p>
 <p>First, we need to understand a little about how the linux file system maps to your <em>host</em> filesystem.  Your host is your normal operating system - the one you have likely have a bunch of windows and web browsers open on now.  The linux OS running in vagrant is installed within it - running in the background, accessible via command line ssh.</p>

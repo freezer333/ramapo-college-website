@@ -1,13 +1,12 @@
-# HNRS 420 - Lecture 14 <br/><br/>The fully automated society - what will we do? (Part 1)
+# HNRS 420 - Lecture 13 <br/><br/>The fully automated society - what will we do? (Part 1)
 
-
-In depth discussions on the "Future" book
+We'll begin discussing in depth the ideas presented in "Who Owns the Future", and the implications of automation on society
 
 ## Reading List
 TBD
 
-## Course Material
-Link to powerpoint slides
+## Lecture Slides
+TBD
 
 ## Course Discussion / Outline
 **Debate** on automation

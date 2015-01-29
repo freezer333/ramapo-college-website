@@ -63,16 +63,16 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 | Date | Lecture Topic | Description | Reading | Lab|
 |------:|---------------|-------------|----|--|
 | 1/22/2015	| Lecture 1 | [Course Introduction](lects/Lecture01.pdf) | | |
-| 1/26/2015	| Lecture 2 | [Review of C++ Basics](lects/Lecture02.pdf)  | Chapters 1-4| [Lab 1](Labs/lab1/) |
-| 1/29/2015	| Lecture 3 | [Loops](lects/Lecture03.pdf) | Chapter 5| [Lab 2](Labs/lab2/)|
-| 2/2/2015	| Lecture 4 | [Functions](lects/Lecture04-05.pdf) | Chapter 6 | |
-| 2/5/2015	| Lecture 5 | [Functions](lects/Lecture04-05.pdf) | Chpater 6 |[Lab 3](Labs/lab3/) |
-| 2/9/2015	| Lecture 6 | [Arrays](lects/Lecture06.pdf) | Chapter 7| |
-| 2/12/2015	| Lecture 7 | [Recursion](lects/Lecture07.pdf) |  Chapter 17| |
+| 1/26/2015	| -| Cancelled due to Snow | | |
+| 1/29/2015	| Lecture 2 | [Review of C++ Basics](lects/Lecture02.pdf) | Chapters 1-4 |[Lab 1](Labs/lab1/)  |
+| 2/2/2015	| Lecture 3 | [Loops](lects/Lecture03.pdf) | Chapter 5 |[Lab 2](Labs/lab2/) |
+| 2/5/2015	| Lecture 4 | [Functions](lects/Lecture04-05.pdf) | Chapter 6 | |
+| 2/9/2015	| Lecture 5 | [Functions](lects/Lecture04-05.pdf) | Chapter 6 | [Lab 3](Labs/lab3/)|
+| 2/12/2015	| Lecture 6 | [Arrays](lects/Lecture06.pdf) | Chapter 7 | |
 | 2/16/2015	| Lecture 8 | [Pointers](lects/Lecture08-09.pdf) |  Chapter 11| |
 | 2/19/2015	| Lecture 9 | [Pointers](lects/Lecture08-09.pdf) | Chapter 11| [Lab 4](Labs/lab4/)|
 | 2/23/2015	|  | Exam 1 | | |
-| 2/26/2015	|  | Exam 1 Review/Solutions | | |
+| 2/26/2015	| -  | No class (I will be travelling) |  ||
 | 3/2/2015	| Lecture 10 | [Classes Part1](lects/Lecture10-11.pdf) | Chapter 9| |
 | 3/5/2015	| Lecture 11 | [Classes Part1](lects/Lecture10-11.pdf) | Chpater 9| [Lab 5](Labs/lab5/)|
 | 3/9/2015	| Lecture 12 | [Classes Part2](lects/Lecture12-13.pdf) | Chapter 10| |
@@ -157,8 +157,6 @@ Students are expected to read and understand Ramapo College’s Academic Integri
 
 When completing lab programming exercises, you may review code with your fellow students; however, copying source code is strictly forbidden.  For homework programming assignments, you may discuss ideas, however you may not allow others to see your source code or examine others’.  Sharing of source code is extremely easy to detect and is strictly prohibited.   If sharing of source code is suspected, intentional or otherwise, both parties will immediately be referred to the Office of the Provost.
 
-## CEC - Course Enrichment Component:
-Towards the end of the semester, one homework assignment will be selected as part of a “Code Review”.  Each program submitted for the particular assignment will have all author-identifying information removed from its source code and redistributed, at random, to students.  Thus, each student will have someone else’s program.  The students are asked to judge the program’s technical accuracy and overall quality.  Understanding others’ code, and having the ability to test code in which you have not written, is a fundamental part of software development (see learning objectives “Peer Code Review”, “Testing and Analysis”) and the CEC component directly addresses this outcome.  Assessment of the quality of your review will be based on a comparison of your findings and the actual grade given to the real author on the assignment.
 
 # Students with Disabilities:
 If you need course adaptation or accommodations because of a disability that has been documented with the Office of Specialized Services, please make an appointment during my office hours.

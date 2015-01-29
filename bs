@@ -1,0 +1,3 @@
+#!/bin/bash     
+cp ../classes/HNRS420/src/* ./content/courses/hnrs420/
+node build

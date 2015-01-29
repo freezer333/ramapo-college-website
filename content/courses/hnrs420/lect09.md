@@ -6,9 +6,9 @@ The sea-change in journalism and publication, the good and the bad.  Learn to cr
 ## Reading List
 TBD
 
-## Course Material
-Link to powerpoint slides
+## Lecture Slides
+TBD
 
 
 ## Course Discussion / Outline
-(blogging software review)
+TBD

@@ -19,6 +19,7 @@ var html_close = "</html>";
 var head = fs.readFileSync('head.partial.html', "utf-8")
 
 function build(f){
+  console.log("Reading " + f);
   var markdown = fs.readFileSync(f, "utf-8");
   var html = marked(markdown);
   var page = html_open + head + html + html_close;

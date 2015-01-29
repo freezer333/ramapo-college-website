@@ -24,11 +24,11 @@ Permission of Instructor required.
 ## Course Materials
 Most of the reading required in this course will be material freely available on the web.  For each week, a listing of several (shortish) articles will be posted (see the individual lecture pages, accessible from the links in the 'Course Topics' section).
 
-There are two books the class is **required to read**, which will be discussed in detail throughout the semester.  The first, [The Innovators](href='http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution/dp/147670869X/ref=br_lf_m_239332_1_4_ttl?ie=UTF8&s=books&pf_rd_p=1953735202&pf_rd_s=center-2&pf_rd_t=1401&pf_rd_i=239332&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1GM630QHX1T0PM1CW3AB), will give you a glimpse into some of the most important people in the history of computing.  The second, [Who Owns the Future](http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom), presents a fairly opinionated discussion/idea about where technology and specifically computers are taking society.  These books will provide some common ground for the class to draw upon during debates and presenations.
-
+There are two books the class is **required to read**, which will be discussed in detail throughout the semester.  The first, [The Innovators](href='http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution/dp/147670869X/ref=br_lf_m_239332_1_4_ttl?ie=UTF8&s=books&pf_rd_p=1953735202&pf_rd_s=center-2&pf_rd_t=1401&pf_rd_i=239332&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1GM630QHX1T0PM1CW3AB), will give you a glimpse into some of the most important people in the history of computing.  The second, [Who Owns the Future](http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom), presents a fairly opinionated discussion/idea about where technology and specifically computers are taking society.  These books will provide some common ground for the class to draw upon during debates and presentations.
 
 <a href='http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution/dp/147670869X/ref=br_lf_m_239332_1_4_ttl?ie=UTF8&s=books&pf_rd_p=1953735202&pf_rd_s=center-2&pf_rd_t=1401&pf_rd_i=239332&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1GM630QHX1T0PM1CW3AB'><img src='http://ecx.images-amazon.com/images/I/511TrOAlrqL.jpg' height='200' width='140'/></a>&nbsp;&nbsp;
-&nbsp;<a href='http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom'><img src='http://ecx.images-amazon.com/images/I/51H3Viz7ebL.jpg' height='200' width='140'/></a>
+&nbsp;
+<a href='http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom'><img src='http://ecx.images-amazon.com/images/I/51H3Viz7ebL.jpg' height='200' width='140'/></a>
 
 Please note that pages/chapters have been assigned from each text and are listed in 'Reading' section within each of the lecture pages linked to below.  
 
@@ -41,21 +41,21 @@ them by clicking on the topic below.
 
 |Lecture |Date |Topic |
 |:---------|:------|:------|
-| 1|  1/26/15 	| [A brief history of computing, and why need to care...](lect01.html) |
-| 2|  2/2/15 	| [Why you need to know how to program](lect02.html) |
-| 3|  2/9/15 	| [The open source culture](lect03.html) |
-| 4|  2/16/15 	| [Security and Encryption, and why you shouldn't completely trust it.](lect04.html) |
-| 5|  2/23/15	| [Buying and sharing your identity](lect05.html) |  
-| 6|  3/2/15 	| [The NSA, spying, and cyberterrorism?](lect06.html) |  
-| 7|  3/9/15 	| [Off-the-grid - networks and technology of anonymity](lect07.html) |  
-| |   3/16/15 	| Spring Break - No Classes Held
-| 8|  3/23/15 	| [Innovation:  The cult of silicon valley and the young](lect08.html) |  
-| 9|  3/30/15 	| [Who are you getting your information from?](lect09.html) |  
-| 10| 4/6/15	| [Disruption Case-Study Education](lect10.html) |
-| 11| 4/13/15 	| [Net neutrality:  Who will control the internet](lect11.html) |
-| 12| 4/20/15 	| [Emerging Technologies](lect12.html) |  
-| 13| 4/27/15 	| [The fully automated society - what will we do? - Part 1](lect13.html) |
-| 14| 5/4/15 	| [The fully automated society - what will we do? - Part 2](lect14.html) |
+| -|  1/26/15   | Class cancelled due to weather |
+| 1|  2/2/15 	| [A brief history of computing, and why need to care...](lect01.html) |
+| 2|  2/9/15 	| [The nature of programming, and of programmers](lect02.html) |
+| 3|  2/16/15 	| [The open source culture](lect03.html) |
+| 4|  2/23/15 	| [Security and Encryption, and why you shouldn't completely trust it.](lect04.html) |
+| 5|  3/2/15	| [Buying and sharing your identity](lect05.html) |  
+| 6|  3/9/15 	| [The NSA, spying, and cyberterrorism?](lect06.html) |  
+| |  3/16/15 	| Spring Break - No Classes Held |
+| 7|  3/23/15 	| [Off-the-grid - networks and technology of anonymity](lect07.html) |  
+| 8|  3/30/15 	| [Innovation:  The cult of silicon valley and the young](lect08.html) |  
+| 9| 4/6/15	| [Disruption Case-Study Education](lect10.html) |
+| 10| 4/13/15 	| [Net neutrality:  Who will control the internet](lect11.html) |
+| 11| 4/20/15 	| [Emerging Technologies](lect12.html) |  
+| 12| 4/27/15 	| [The fully automated society - what will we do? - Part 1](lect13.html) |
+| 13| 5/4/15 	| [The fully automated society - what will we do? - Part 2](lect14.html) |
 
 ## Lecture Organization
 The class meets from 2pm-5:15pm.  While there will be some variation week to week, you can expect that we will use the following rough schedule:  
@@ -76,11 +76,11 @@ There will be no in-class exams in this course.
 ### Presentations
 Students will be grouped (by the instructor) into teams of 3 for two presentations to be made during the semester.  Presentations will be 15 minutes long, plus Q & A
 
-#### Presentation 1 - Security Disasters (2/23/14 and 3/2/14)
+#### Presentation 1 - Security Disasters (2/23/15 and 3/2/15)
 The first presentation will be on a specific instance where security issues have had a significant effect on the public.   This can be related to identity/financial fraud, privacy infrigement (by hackers, companies, or the government), and infrastructure (cyberterrorism, bugs).  
 
 
-#### Presentation 2 - Emerging Technologies (4/20/14)
+#### Presentation 2 - Emerging Technologies (4/20/15)
 The second presentation is focused on an emerging technology.  Here are the potential topics:
 
 * Quantum Computing - what does this mean for computing power?
@@ -92,18 +92,18 @@ The second presentation is focused on an emerging technology.  Here are the pote
 ### Debates
 The second part of eight of the lectures include a semi-structured debate.  Students will be paired, and two teams (4 total students) will be expected to frame a debate surrounding the topic assigned.  
 
-The purpose of the team is not only to debate each other, but to be "subject matter" experts and help frame the class's discussion.  Your grade will be based on (1) how well you understand the problem/topic, (2) how persuasively you make your arguments, and (3) how well you get the rest of the class involved in the discussion.
+[Please see the debate schedule for details](debates.html).
 
-*8 debates, 16 team assignments.  7-8 teams, each team will have 2 debates.  Teams to be assigned first week of class*
+The purpose of the team is not only to debate each other, but to be "subject matter" experts and help frame the class's discussion.  Your grade will be based on (1) how well you understand the problem/topic, (2) how persuasively you make your arguments, and (3) how well you get the rest of the class involved in the discussion.
 
 ### Essays
 You will be required to write two essays, each corresponding to the two major themes of the course.  Your grade will be based on how compelling of a topic you choose and the level of research, accuracy, and logic applied to your discussion and conclusions.  
 
 **Each essay is expected to be 5-7 pages, double spaced (1.25" margins, 12pt font)**.
 
-#### Essay 1:  Seminal Events in Computing (due 3/9/14)
+#### Essay 1:  Seminal Events in Computing (due 3/9/15)
 Select a particular event, or invention/software release that you feel has "changed the world".  Do a deep-dive into how that event came to pass - who were the major players, what were the enabling events?
-#### Essay 2:  Industries effected by Computing (due 5/4/14)
+#### Essay 2:  Industries effected by Computing (due 5/4/15)
 You must select an industry profoundly changed by the automation and democratization of the computer age, and discuss this from a variety of perspectives.  How has it helped the consumer?  How has it helped the specific industry (the product)?  How has it effective the workforce?  Has this been a net-positive for society?
 
 ### Learning to code
