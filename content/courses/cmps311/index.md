@@ -46,21 +46,21 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 | 1/22/2015	| Lecture 1 | [Course Introduction](lects/Lecture01-02.pdf) | |
 | 1/26/2015	| - | Class cancelled due to weather  | |
 | 1/29/2015	| Lecture 2 | [System Calls](lects/Lecture01-02.pdf) | Chapters 1-2| 
-| 2/2/2015	| Lecture 3 | [Processes](lects/Lecture02-05.pdf) | Chapter 3 |
-| 2/5/2015	| Lecture 4 | [Processes &amp; Fork / Exec](lects/Lecture02-05.pdf) | Chapter 3 |
-| 2/9/2015	| Lecture 5 | [Pipes and Threads](lects/Lecture02-05.pdf)  | Chapter 3-4|  
-| 2/12/2015	| Lecture 6 | [Threads](lects/Lecture06-07.pdf) |  Chapter 4| 
-| 2/16/2015	| Lecture 7  | [Threads Programming](lects/Lecture06-07.pdf) and Review | Chapter 4 | 
-| 2/19/2015	|  | Exam 1 | 
-| 2/23/2015	|  Lecture 8| [Exam Recap, intro to Scheduling](lects/Lecture08-10.pdf) |  Chapter 6 |
-| 2/26/2015	|  - | No class ( I will be travelling) | | 
-| 3/2/2015	| Lecture 9-10 | [Scheduling](lects/Lecture08-10.pdf) | Chapter 6| 
-| 3/5/2015	| Lecture 11 | [Synchronization](lects/Lecture11-12.pdf) | Chpater 5| 
+| 2/2/2015	| - | Class cancelled due to weather  | |
+| 2/5/2015	| Lecture 3 | [Processes](lects/Lecture02-05.pdf) | Chapter 3 |
+| 2/9/2015	| Lecture 4 | [Processes &amp; Fork / Exec](lects/Lecture02-05.pdf) | Chapter 3 |
+| 2/12/2015	| Lecture 5 | [Pipes and Threads](lects/Lecture02-05.pdf)  | Chapter 3-4|  
+| 2/16/2015	| Lecture 6 | [Threads](lects/Lecture06-07.pdf) |  Chapter 4| 
+| 2/19/2015	| Lecture 7  | [Threads Programming](lects/Lecture06-07.pdf) and Review | Chapter 4 | 
+| 2/23/2015	| | Exam 1 | 
+| 2/26/2015	| - | No class ( I will be travelling) | | 
+| 3/2/2015	| Lecture 8| [Exam Recap, intro to Scheduling](lects/Lecture08-10.pdf) |  Chapter 6 |
+| 3/5/2015	| Lecture 9-10 | [Scheduling](lects/Lecture08-10.pdf) | Chapter 6| 
 | 3/9/2015	| Lecture 12 | [Synchronization](lects/Lecture11-12.pdf) | Chapter 5| 
-| 3/12/2015	| Lecture 13 | [Deadlocks](lects/Lecture13.pdf) | Chapter 7| 
+| 3/12/2015	| Lecture 12 | [Synchronization](lects/Lecture11-12.pdf) | Chapter 5| 
 | 3/16/2015	|   | Spring Break | | 
 | 3/19/2015	|  | Spring Break | | 
-| 3/23/2015	| |  Review | | 
+| 3/23/2015	| Lecture 13 | [Deadlocks](lects/Lecture13.pdf) | Chapter 7| 
 | 3/26/2015	| | Exam 2 | |
 | 3/30/2015	| Lecture 14 | [Memory Management](lects/Lecture14-17.pdf) | Chapter 8| 
 | 4/2/2015	| Lecture 15 | [Memory Management](lects/Lecture14-17.pdf) | Chapter 8| 
@@ -82,12 +82,13 @@ Write a short research paper summarizing technical aspects of two popular mobile
 * Due last class of semester
 
 ## Homework Assignments
-Homework assignments are worth between 50 and 100 points, and are turned in electronically as well.  
+Homework assignments are worth 100 points, and are turned in electronically.  
 
 * [Homework 1](hw/HW1.pdf)  - Due on 2/5/15 
-* [Homework 2](hw/HW2.pdf)  - Due on 2/16/15 
-* [Homework 3](hw/HW3.pdf)  - Due on 3/23/15
-* [Homework 4](hw/HW4.pdf)  - Due on 4/13/15
+* [Homework 2](hw/HW2.pdf)  - Due on 2/26/15 
+* [Homework 3](hw/HW3.pdf)  - Due on 3/13/15
+* [Homework 4](hw/HW4.pdf)  - Due on 3/30/15
+* [Homework 5](hw/HW5.pdf)  - Due on 4/13/15
 
 ## Late Policy
 All assignments will be turned in electronically.  A late penalty of 5 points per day will be applied to all late assignments.  The required format/method of your electronic submissions will be outlined for each assignment.  Deviation from these requirements may result in a 5-point penalty.  
