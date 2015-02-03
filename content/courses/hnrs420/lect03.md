@@ -19,10 +19,3 @@ We'll discuss the ins and outs of what the terms "open source" and "free softwar
 ## Lecture Slides
 <iframe src="https://docs.google.com/presentation/d/1DpQ4TfktaRlqu7RXOBVIP2HXC3WwILxMCIc93GVZ-uc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Homework
-In addition to reading next weeks articles, please continue working to learn Python on   [codeacademy](http://www.codecademy.com/en/tracks/python).  Please complete the next 4 lessons and email me a screenshot of your completed progress.
-
-1. Conditionals and Control Flow
-1. PygLatin
-1. Functions
-1. Taking a Vacation

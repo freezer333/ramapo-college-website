@@ -24,13 +24,23 @@ Permission of Instructor required.
 ## Course Materials
 Most of the reading required in this course will be material freely available on the web.  For each week, a listing of several (shortish) articles will be posted (see the individual lecture pages, accessible from the links in the 'Course Topics' section).
 
-There are two books the class is **required to read**, which will be discussed in detail throughout the semester.  The first, [The Innovators](href='http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution/dp/147670869X/ref=br_lf_m_239332_1_4_ttl?ie=UTF8&s=books&pf_rd_p=1953735202&pf_rd_s=center-2&pf_rd_t=1401&pf_rd_i=239332&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1GM630QHX1T0PM1CW3AB), will give you a glimpse into some of the most important people in the history of computing.  The second, [Who Owns the Future](http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom), presents a fairly opinionated discussion/idea about where technology and specifically computers are taking society.  These books will provide some common ground for the class to draw upon during debates and presentations.
+There are two books the class is **required to read**, which will be discussed in detail throughout the semester.  The first, [The Innovators](http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution/dp/147670869X/ref=br_lf_m_239332_1_4_ttl?ie=UTF8&s=books&pf_rd_p=1953735202&pf_rd_s=center-2&pf_rd_t=1401&pf_rd_i=239332&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1GM630QHX1T0PM1CW3AB), will give you a glimpse into some of the most important people in the history of computing.  The second, [Who Owns the Future](http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom), presents a fairly opinionated discussion/idea about where technology and specifically computers are taking society.  These books will provide some common ground for the class to draw upon during debates and presentations.
 
-<a href='http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution/dp/147670869X/ref=br_lf_m_239332_1_4_ttl?ie=UTF8&s=books&pf_rd_p=1953735202&pf_rd_s=center-2&pf_rd_t=1401&pf_rd_i=239332&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1GM630QHX1T0PM1CW3AB'><img src='http://ecx.images-amazon.com/images/I/511TrOAlrqL.jpg' height='200' width='140'/></a>&nbsp;&nbsp;
-&nbsp;
-<a href='http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom'><img src='http://ecx.images-amazon.com/images/I/51H3Viz7ebL.jpg' height='200' width='140'/></a>
+<a href='http://www.amazon.com/The-Innovators-Hackers-Geniuses-Revolution/dp/147670869X/ref=br_lf_m_239332_1_4_ttl?ie=UTF8&s=books&pf_rd_p=1953735202&pf_rd_s=center-2&pf_rd_t=1401&pf_rd_i=239332&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1GM630QHX1T0PM1CW3AB'><img src='http://ecx.images-amazon.com/images/I/511TrOAlrqL.jpg' height='200' width='140'/></a> <a href='http://www.amazon.com/exec/obidos/ASIN/1451654960/simonsayscom'><img src='http://ecx.images-amazon.com/images/I/51H3Viz7ebL.jpg' height='200' width='140'/></a>
 
-Please note that pages/chapters have been assigned from each text and are listed in 'Reading' section within each of the lecture pages linked to below.  
+### Reading Schedule
+I am not rigidly structuring your progress through the two text’s (“The Innovators” and “Who Owns the Future”) – you may read roughly at your own pace.  However – here are my guidelines:
+
+
+| The Innovators   | Who Owns the Future?    | 
+|:------|:--------|
+| Read Chapters 1-5 by 3/2|Read Parts 1-3 by 3/2 |
+| Read Chapters 6-9 by 4/6|Read Parts 1-3 by 3/2 |
+| Complete the book by 4/27|Complete book by 3/27 |
+
+
+Alternatively – if you prefer to read only one book at a time, please complete the Innovators by 3/16, and make sure you’ve completed the Who Owns the Future book before 4/27
+
 
 ## Course Topics
 Most lectures will include student debate or presentations.  The schedule and assignments for these will be listed on the associated lecture's page, you can access
@@ -42,20 +52,20 @@ them by clicking on the topic below.
 |Lecture |Date |Topic |
 |:---------|:------|:------|
 | -|  1/26/15   | Class cancelled due to weather |
-| 1|  2/2/15 	| [A brief history of computing, and why need to care...](lect01.html) |
-| 2|  2/9/15 	| [The nature of programming, and of programmers](lect02.html) |
-| 3|  2/16/15 	| [The open source culture](lect03.html) |
-| 4|  2/23/15 	| [Security and Encryption, and why you shouldn't completely trust it.](lect04.html) |
-| 5|  3/2/15	| [Buying and sharing your identity](lect05.html) |  
-| 6|  3/9/15 	| [The NSA, spying, and cyberterrorism?](lect06.html) |  
+| -|  2/2/15 	| Class cancelled due to weather |
+| 1|  2/9/15 	| [A brief history of computing, and why need to care...](lect01.html) |
+| 2|  2/16/15 	| [The nature of programming, and of programmers](lect02.html) |
+| 3|  2/23/15 	| [The open source culture](lect03.html) |
+| 4|  3/2/15	| [Security and Encryption, and why you shouldn't completely trust it.](lect04.html) | 
+| 5|  3/9/15 	| [Buying and sharing your identity](lect05.html) |  
 | |  3/16/15 	| Spring Break - No Classes Held |
-| 7|  3/23/15 	| [Off-the-grid - networks and technology of anonymity](lect07.html) |  
-| 8|  3/30/15 	| [Innovation:  The cult of silicon valley and the young](lect08.html) |  
-| 9| 4/6/15	| [Disruption Case-Study Education](lect10.html) |
-| 10| 4/13/15 	| [Net neutrality:  Who will control the internet](lect11.html) |
-| 11| 4/20/15 	| [Emerging Technologies](lect12.html) |  
-| 12| 4/27/15 	| [The fully automated society - what will we do? - Part 1](lect13.html) |
-| 13| 5/4/15 	| [The fully automated society - what will we do? - Part 2](lect14.html) |
+| 6|  3/23/15 	| [The NSA, spying and networks and technology of anonymity](lect07.html) |  
+| 7|  3/30/15 	| [Innovation:  The cult of silicon valley and the young](lect08.html) |  
+| 8|  4/6/15	| [Disruption Case-Study Education](lect10.html) |
+| 9| 4/13/15 	| [Net neutrality:  Who will control the internet](lect11.html) |
+| 10| 4/20/15 	| [Emerging Technologies](lect12.html) |  
+| 11| 4/27/15 	| [The fully automated society - what will we do? - Part 1](lect13.html) |
+| 12| 5/4/15 	| [The fully automated society - what will we do? - Part 2](lect14.html) |
 
 ## Lecture Organization
 The class meets from 2pm-5:15pm.  While there will be some variation week to week, you can expect that we will use the following rough schedule:  
@@ -76,7 +86,7 @@ There will be no in-class exams in this course.
 ### Presentations
 Students will be grouped (by the instructor) into teams of 3 for two presentations to be made during the semester.  Presentations will be 15 minutes long, plus Q & A
 
-#### Presentation 1 - Security Disasters (2/23/15 and 3/2/15)
+#### Presentation 1 - Security Disasters (3/9/15)
 The first presentation will be on a specific instance where security issues have had a significant effect on the public.   This can be related to identity/financial fraud, privacy infrigement (by hackers, companies, or the government), and infrastructure (cyberterrorism, bugs).  
 
 
@@ -112,13 +122,11 @@ to be learned by walking a mile in the shoes of a programmer.  The CEC component
 of a beginners tutorial in Python programming.  Python is a very beginner-friendly language, but is used extensively
 in both small and huge programming projects alike.
 
-By 5/4/15, You are required to complete all lessons in [Code Academy's Python Course](http://www.codecademy.com/en/tracks/python).  
+By 4/20/15, You are required to complete all lessons in [Code Academy's Python Course](http://www.codecademy.com/en/tracks/python).  
 
 <a href='http://www.codecademy.com/en/tracks/python'><img src='capython.png'/></a>
 
-To verify you've completed the
-exercises, you will be required to show me, at some point in the semester, your account page (which shows your progress).
-
+Please see the [programing schedule](programming.html) for due dates for each lesson
 
 ## Grading
 

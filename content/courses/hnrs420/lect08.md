@@ -1,4 +1,4 @@
-# HNRS 420 - Lecture 8 <br/><br/>Innovation:  The cult of silicon valley and the young
+# HNRS 420 - Lecture 7 <br/><br/>Innovation:  The cult of silicon valley and the young
 
 An in depth-discussion on the idea that start-ups are the new economy, on how tech favors the young (and why), and issues that arise from this thinking
 
@@ -8,6 +8,7 @@ An in depth-discussion on the idea that start-ups are the new economy, on how te
 
 ## Lecture Slides
 TBD
+
 
 
 ## Course Discussion / Outline

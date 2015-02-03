@@ -23,7 +23,6 @@ I'll describe the technical aspects of security in computer systems, and lay the
 ## Lecture Slides
 <iframe src="https://docs.google.com/presentation/d/1U9Y-QNy2h9VDhd-uacQUJlY-zqdWM4297LKkenJhGbw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
 ## Debate
 
 1. How much responsibility should companies have in this?  What’s Home Depot’s responsibility?

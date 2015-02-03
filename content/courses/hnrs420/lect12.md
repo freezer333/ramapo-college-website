@@ -14,5 +14,6 @@ Survey of many future computing advancements - quantum computing, artificial int
 TBD
 
 
+
 ## Course Discussion / Outline
 **Presentations (2)**  5 groups of 3, 15 minutes
