@@ -65,7 +65,7 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 | 1/22/2015	| Lecture 1 | [Course Introduction](lects/Lecture01.pdf) | | |
 | 1/26/2015	| -| Cancelled due to Snow | | |
 | 1/29/2015	| Lecture 2 | [Review of C++ Basics](lects/Lecture02.pdf) | Chapters 1-4 |[Lab 1](Labs/lab1/)  |
-| 2/2/2015	| Lecture 3 | [Loops](lects/Lecture03.pdf) | Chapter 5 |[Lab 2](Labs/lab2/) |
+| 2/2/2015	| Lecture 3 | Lecture cancelled due to class closing<br/>Online Lecture[Loops](loop-makeup/loops.html) | Chapter 5 |[Lab 2](Labs/lab2/) |
 | 2/5/2015	| Lecture 4 | [Functions](lects/Lecture04-05.pdf) | Chapter 6 | |
 | 2/9/2015	| Lecture 5 | [Functions](lects/Lecture04-05.pdf) | Chapter 6 | [Lab 3](Labs/lab3/)|
 | 2/12/2015	| Lecture 6 | [Arrays](lects/Lecture06.pdf) | Chapter 7 | |
@@ -74,7 +74,7 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 | 2/23/2015	|  | Exam 1 | | |
 | 2/26/2015	| -  | No class (I will be travelling) |  ||
 | 3/2/2015	| Lecture 10 | [Classes Part1](lects/Lecture10-11.pdf) | Chapter 9| |
-| 3/5/2015	| Lecture 11 | [Classes Part1](lects/Lecture10-11.pdf) | Chpater 9| [Lab 5](Labs/lab5/)|
+| 3/5/2015	| Lecture 11 | [Classes Part1](lects/Lecture10-11.pdf) | Chapter 9| [Lab 5](Labs/lab5/)|
 | 3/9/2015	| Lecture 12 | [Classes Part2](lects/Lecture12-13.pdf) | Chapter 10| |
 | 3/12/2015	| Lecture 13 | [Classes Part2](lects/Lecture12-13.pdf) | Chapter 10| [Lab 6](Labs/lab6/)|
 | 3/16/2015	|   | Spring Break | | |

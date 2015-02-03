@@ -1,0 +1,140 @@
+<!doctype html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Scott Frees</title>
+
+<style type='text/css'>
+  *{margin:0;padding:0;}
+  body {
+    font:13.34px helvetica,arial,freesans,clean,sans-serif;
+    color:black;
+    line-height:1.4em;
+    background-color: #F8F8F8;
+    padding: 0.7em;
+  }
+  p {
+    margin:1em 0;
+    line-height:1.5em;
+  }
+  table {
+    font-size:inherit;
+    font:100%;
+    margin-top:1em;
+    margin-bottom:1em;
+  }
+  table th{border-bottom:1px solid #bbb;padding:.2em 1em;}
+  table td{border-bottom:1px solid #ddd;padding:.2em 1em;}
+  input[type=text],input[type=password],input[type=image],textarea{font:99% helvetica,arial,freesans,sans-serif;}
+  select,option{padding:0 .25em;}
+  optgroup{margin-top:.5em;}
+  pre,code{font:12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;}
+  pre {
+    margin:1em 0;
+    font-size:12px;
+    background-color:#eee;
+    border:1px solid #ddd;
+    padding:5px;
+    line-height:1.5em;
+    color:#444;
+    overflow:auto;
+    -webkit-box-shadow:rgba(0,0,0,0.07) 0 1px 2px inset;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;border-radius:3px;
+  }
+  pre code {
+    padding:0;
+    font-size:12px;
+    background-color:#eee;
+    border:none;
+  }
+  code {
+    font-size:12px;
+    background-color:#f8f8ff;
+    color:#444;
+    padding:0 .2em;
+    border:1px solid #dedede;
+  }
+  img{border:0;max-width:100%;}
+  abbr{border-bottom:none;}
+  a{color:#4183c4;text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  a code,a:link code,a:visited code{color:#4183c4;}
+  h2,h3{margin:1em 0;}
+  h1,h2,h3,h4,h5,h6{border:0;}
+  h1{font-size:170%;border-top:4px solid #aaa;padding-top:.5em;margin-top:1.5em;}
+  h1:first-child{margin-top:0;padding-top:.25em;border-top:none;}
+  h2{font-size:150%;margin-top:1.5em;border-top:4px solid #e0e0e0;padding-top:.5em;}
+  h3{margin-top:1em;}
+  hr{border:1px solid #ddd;}
+  ul{margin:1em 0 1em 2em;}
+  ol{margin:1em 0 1em 2em;}
+  ul li,ol li{margin-top:.5em;margin-bottom:.5em;}
+  ul ul,ul ol,ol ol,ol ul{margin-top:0;margin-bottom:0;}
+  blockquote{margin:1em 0;border-left:5px solid #ddd;padding-left:.6em;color:#555;}
+  dt{font-weight:bold;margin-left:1em;}
+  dd{margin-left:2em;margin-bottom:1em;}
+  sup {
+      font-size: 0.83em;
+      vertical-align: super;
+      line-height: 0;
+  }
+  * {
+    -webkit-print-color-adjust: exact;
+  }
+  @media screen and (min-width: 914px) {
+      body {
+          width: 854px;
+          margin:0 auto;
+      }
+  }
+  @media print {
+    table, pre {
+      page-break-inside: avoid;
+    }
+    pre {
+      word-wrap: break-word;
+    }
+  }
+
+
+</style>
+
+</head>
+<h1 id="loops-review">Loops Review</h1>
+<p>On Monday, February 2nd we were supposed to do a review of loops (while loops, do while loops, and for loops).  Due to weather the class was cancelled.  We have many important topics to cover this semester, and instead of losing ground, I am turning this lecture into an &quot;online&quot; session.  Since loops are a review topic, I have linked to three online lectures from CMPS 147 (winter session was online).  I am also posting all solution code - both for last week&#39;s lab and for the programming examples in today&#39;s slides.</p>
+<ul>
+<li><a href="lab1-solution.cpp">Lab 1 Solution</a></li>
+</ul>
+<p><strong>Here are your required tasks for Monday, February 2nd</strong></p>
+<h2 id="listen-watch-video-lectures">Listen/Watch video lectures</h2>
+<p>If you have a good handle on loops, these might be a bit slow for you - feel free to fast forward if you are bored :).  <strong>However</strong> please realize that you will absolutely fail to succeed in this class if loops give you problems - so if you aren&#39;t supremely confident about loops please take these lectures very seriously, and work to complete all sample code</p>
+<ul>
+<li><a href="http://youtu.be/rMue4Lb2utA">While Loops Video Lecture</a><ul>
+<li><a href="pe16.cpp">Programming Example 16 Source</a></li>
+<li><a href="pe17.cpp">Programming Example 17 Source</a></li>
+</ul>
+</li>
+<li><a href="http://youtu.be/4VMQOH_F9Yk">Do-While Loops Video Lecture</a><ul>
+<li><a href="pe18.cpp">Programming Example 18 Source</a></li>
+<li><a href="pe19.cpp">Programming Example 19 Source</a></li>
+</ul>
+</li>
+<li><a href="http://youtu.be/U3S2JntuwQA">For Loops Video Lecture</a><ul>
+<li><a href="pe20.cpp">Programming Example 20 Source</a></li>
+<li><a href="pe21.cpp">Programming Example 21 Source</a></li>
+<li><a href="pe22.cpp">Programming Example 22 Source</a></li>
+</ul>
+</li>
+</ul>
+<p><em>Note, these lectures were recorded for CMPS 147.  All references to completing Labs (Labs 6 and 7) or other assignments <strong>ARE NOT RELEVANT TO CMPS 148</strong>.  You are not to submit any code mentioned as lab assignments from the videos.  I have provided the relevant source code below.  You are encouraged to try them on your own!</em></p>
+<h2 id="review-the-lecture-slides-for-cmps-148-on-loops">Review the Lecture Slides for CMPS 148 on loops</h2>
+<p>In the lecture slides posted on Moodle (and <a href="../lects/Lecture03.pdf">here</a>), there are several programming problems presented.  I have provided solutions to these below.  Again <strong>I hihgly encourage you to try these yourself before looking at the solutions</strong> - but you are not required to turn anything in.</p>
+<p>The first two exercises in the lecture slides are actually the same as Programming Example 18 and 21 from the video lectures above.  The solution to the prime number example is <a href="primes.cpp">here</a></p>
+<h2 id="complete-lab-2">Complete Lab #2</h2>
+<p>Lab 2 covers loops and is still due on February 5th as stated on Moodle.  You must complete this assignment before class (before 9:45am) on Thursday.  We will go over the solution first thing in class.</p>
+<ul>
+<li><a href="../Labs/lab2">Lab 2</a></li>
+</ul>
+</html>
