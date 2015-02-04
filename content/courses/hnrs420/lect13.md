@@ -9,6 +9,7 @@ We'll begin discussing in depth the ideas presented in "Who Owns the Future", an
 * [The secret to the Uber economy is wealth inequality](http://qz.com/312537/the-secret-to-the-uber-economy-is-wealth-inequality/#)
 * [Unpleasant Facts and Other Musings](http://unpleasantfacts.com/the-more-fungible-worker)
 * [Job Automation: Is a Future Unemployment Crisis Looming?](http://www.huffingtonpost.com/martin-ford/job-automation-is-a-futur_b_832146.html)
+* [Replacing Middle Management with APIs](http://rein.pk/replacing-middle-management-with-apis/)
 
 ## Lecture Slides
 TBD
