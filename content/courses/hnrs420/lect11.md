@@ -4,6 +4,7 @@ A bit of technical detail on how the internet works.  The implications of net ne
 
 ## Reading List
 * [Net neutrality comic](http://theoatmeal.com/blog/net_neutrality)
+* [FCC Chairman Tom Wheeler: This Is How We Will Ensure Net Neutrality](http://www.wired.com/2015/02/fcc-chairman-wheeler-net-neutrality/)
 - more to come.
 
 ## Lecture Slides

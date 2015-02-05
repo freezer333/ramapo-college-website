@@ -11,6 +11,7 @@ We'll discuss the ins and outs of what the terms "open source" and "free softwar
 - [Popular Open Source tools](http://www.cio.com/article/2425519/open-source-tools/top-10-open-source-hall-of-famers.html)
 
 - On the topic of corporate sponsorship of open source
+ - [The World’s Email Encryption Software Relies on One Guy, Who is Going Broke](http://www.propublica.org/article/the-worlds-email-encryption-software-relies-on-one-guy-who-is-going-broke)
  - [Tech Republic](http://www.techrepublic.com/article/for-50-percent-of-developers-open-source-is-a-9-to-5-job/)
  - [Network World](http://www.networkworld.com/article/2867020/opensource-subnet/big-names-like-google-dominate-open-source-funding.html)
 

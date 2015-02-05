@@ -12,6 +12,7 @@ The Open Source debate group will meet with me during the last portion of the cl
 - [Why America's Kids Need to Learn Computer Science](http://www.newsweek.com/deciphering-code-why-americas-kids-need-learn-computer-science-291778) - *Interview with code.org's founder about the need for broad CS education*
 - [Coding is not the new literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)  - *an argument against the importance of code*
 - [Don’t Believe Anyone Who Tells You Learning To Code Is Easy](http://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/) - *this article is aimed at people who have some programming experience - but good read nonetheless.*
+- [Why Learning to Code is So Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 - [Let the Other 95% of Great Programmers In](http://paulgraham.com/95.html) - *Paul Graham is influential in the tech field, having co-founded Y Combinator, a firm that specializes in helping to launch internet and tech startups. *
 - [On Immigration, Engineers Simply Don’t Trust VCs](http://techcrunch.com/2014/12/27/on-immigration-engineers-simply-dont-trust-vcs/) - *A response to the Paul Graham article above.*
 - [Visas and the U.S. Tech Workforce](http://www.computerworld.com/article/2868428/new-h-1b-bill-will-help-destroy-us-tech-workforce.html?phint=newt%3Dcomputerworld_dailynews&phint=idg_eid%3Df00a64e55de5e38bb9c07251bb9264d9#tk.CTWNLE_nlt_pm_2015-01-14) - *An article on the pending legistlation to increase H-1B visas*
