@@ -26,12 +26,12 @@ The purpose of the team is not only to debate each other, but to be "subject mat
 | Team | Members | Debated Dates |
 |------|---------|---------------|
 | A    | TBD     | 2/23, 5/4     |
-| B    | TBD     | 2/23, 4/27    |
-| C    | TBD     | 3/2, 4/6      |
+| B    | James Ticchio, Stephen Fallon     | 2/23, 4/27    |
+| C    | Gabriel Makar     | 3/2, 4/6      |
 | D    | TBD     | 3/2, 4/13     |
 | E    | Jessica Ihle,      | 3/23, 4/6     |
 | F    | Jonathan Mangel, Keimya Sadeghi     | 3/23, 4/13    |
 | G    | Aleksandar Goranov, Sujil Maharjan | 3/30, 4/27    |
-| H    | TBD     | 3/30, 5/4     |
+| H    | Ashley Orlando, Jacob Marks     | 3/30, 5/4     |
 
 
