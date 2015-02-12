@@ -86,6 +86,8 @@ There will be no in-class exams in this course.
 ### Presentations
 Students will be grouped (by the instructor) into teams of 3 for two presentations to be made during the semester.  Presentations will be 15 minutes long, plus Q & A
 
+[Presentation Teams](presentations.html)
+
 #### Presentation 1 - Security Disasters (3/9/15)
 The first presentation will be on a specific instance where security issues have had a significant effect on the public.   This can be related to identity/financial fraud, privacy infrigement (by hackers, companies, or the government), and infrastructure (cyberterrorism, bugs).  
 
