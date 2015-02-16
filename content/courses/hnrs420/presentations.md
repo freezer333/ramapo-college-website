@@ -10,5 +10,5 @@
 | 8    | Melissa Mayberry, Vivek Pandey, James Ticchio     |Presentation 2| 4/20     |
 | 9    | Aleksandar Goranov, Cynthia Loud, Jonathan Mangel     |Presentation 2| 4/20     |
 | 10    | Michael Meltzer, Lauren Rumbauskas, Nicole Williams    |Presentation 2| 4/20    |
-| 11    | Jessica Ihle, Sujil Maharjan, James Ticchio     |Presentation 2| 4/20     |
+| 11    | Jessica Ihle, Sujil Maharjan, Jacob Marks     |Presentation 2| 4/20     |
 | 12    | Ashley Orlando, Keimya Sadeghi      |Presentation 2| 4/20    |
