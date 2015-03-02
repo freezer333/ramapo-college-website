@@ -10,3 +10,4 @@ TBD
 
 ## Course Discussion / Outline
 **Debate** on automation
+http://blog.samaltman.com/the-software-revolution

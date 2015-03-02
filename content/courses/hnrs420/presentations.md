@@ -2,7 +2,7 @@
 |------|---------|---------------|-|
 | 1    | Stephen Fallon, Aleksandar Goranov, Jessica Ihle     |Presentation 1| 3/9    |
 | 2    | Andrew Krygoski, Cynthia Loud, Sujil Maharjan   |Presentation 1| 3/9    |
-| 3    | Gabriel Makar, Jonathan Mangel, Jacob Marks    |Presentation 1| 3/9      |
+| 3    | Gabriel Makar, Jonathan Mangel, Jacob Marks    |Presentation 1 (Sony Hack)| 3/9      |
 | 4    | Melissa Mayberry, Michael Meltzer, Ashley Orlando     |Presentation 1| 3/9     |
 | 5    | Vivek Pandey,   Lauren Rumbauskas, Keimya Sadeghi   |Presentation 1| 3/9     |
 | 6    | James Ticchio, Nicole Williams     |Presentation 1| 3/9    |
