@@ -11,8 +11,10 @@ We'll begin discussing in depth the ideas presented in "Who Owns the Future", an
 * [Job Automation: Is a Future Unemployment Crisis Looming?](http://www.huffingtonpost.com/martin-ford/job-automation-is-a-futur_b_832146.html)
 * [Replacing Middle Management with APIs](http://rein.pk/replacing-middle-management-with-apis/)
 
+https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961
+
 ## Lecture Slides
-TBD
+<iframe src="https://docs.google.com/presentation/d/1yt4c9W136XP3y_GCmFYzM_p2bSxwouRiqXwtSC3y-WI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Course Discussion / Outline

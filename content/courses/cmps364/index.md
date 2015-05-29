@@ -61,13 +61,13 @@ Below is a tentative schedule for the course.  All topics and due dates are subj
 | 2/5/2015	| Lecture 3 | [Introduction to SQL and H2](http://tinyurl.com/l4nmcpy) |  |
 | 2/12/2015	| Lecture 4 | [Functional Dependencies, BCNF, 4th Normal Form](http://tinyurl.com/lnl4ml4) |  Chapter 3|
 | 2/19/2015	|  | Exam 1 | Chapters 1-3
-| 2/26/2015	|  No Class|  ||
-| 3/5/2015	| Lecture 5 | [UML and ER Diagrams](https://docs.google.com/presentation/d/1DP8JnWb7iL7tJxiqEku6HedWdgKDtPz5ZDLoBetJk3U/pub?start=false&loop=false&delayms=3000&slide=id.g262409d0f_025) | Chapter 4.1-4.8|
-| 3/12/2015	| Lecture 6 | [Query Logic and SQL](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000) | Chapter 5.1-5.2 and 6|
+| 2/26/2015	| - | No Class  | - |
+| 3/5/2015	| - | Class Cancelled due to weather  | - |
+| 3/12/2015	| Lecture 5 | [UML and ER Diagrams](https://docs.google.com/presentation/d/1DP8JnWb7iL7tJxiqEku6HedWdgKDtPz5ZDLoBetJk3U/pub?start=false&loop=false&delayms=3000&slide=id.g262409d0f_025) / [Query Logic and SQL](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000) | Chapter 4.1-4.8, Chapter 5.1-5.2|
 | 3/19/2015	|  | Spring Break | |
-| 3/26/2015	| Lecture 7| [SQL - continued](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000&slide=id.g2628f3916_111) | Chapter 6 |
-| 4/2/2015	|  |Exam 2 |Chapters 4-6|
-| 4/9/2015	| Lecture 8 | [Java and JDBC Programming](https://docs.google.com/presentation/d/1JWVBILNsJMk07-uaBKJr3fOY-r5a7Ab0lgxfW-vf1sc/pub?start=false&loop=false&delayms=3000) | [Java Tutorial](http://docs.oracle.com/javase/tutorial/java/) |
+| 3/26/2015	| Lecture 6 | [Query Logic and SQL](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000) | Chapter 5.1-5.2 and 6|
+|  4/2/2015	| Lecture 7| [SQL - continued](https://docs.google.com/presentation/d/1b7hu1Dnnrv5XBkJCm2L5MmkQyZ05H19p9V_s1xDWdhI/pub?start=false&loop=false&delayms=3000&slide=id.g2628f3916_111) and [Java and JDBC Programming](https://docs.google.com/presentation/d/1JWVBILNsJMk07-uaBKJr3fOY-r5a7Ab0lgxfW-vf1sc/pub?start=false&loop=false&delayms=3000) | Chapter 6 and [Java Tutorial](http://docs.oracle.com/javase/tutorial/java/)|
+| 4/9/2015	| Lecture 8 |[Java and JDBC Programming](https://docs.google.com/presentation/d/1JWVBILNsJMk07-uaBKJr3fOY-r5a7Ab0lgxfW-vf1sc/pub?start=false&loop=false&delayms=3000) and Exam 2 |[Java Tutorial](http://docs.oracle.com/javase/tutorial/java/)|
 | 4/16/2015	| Lecture 9-10 | [Constraints, Assertions, and Triggers](https://docs.google.com/presentation/d/1J7tPs-Cw1mEInE4IzwQsbO4oFD9D-763QgenB4qw5X4/pub?start=false&loop=false&delayms=3000), [Views and Indexes](https://docs.google.com/presentation/d/1JFWHtyh0-7FtfMohYpBp4bFhmWzu8T-MDzJ50ZeMOS4/pub?start=false&loop=false&delayms=3000) | Chapter 7, 8, and 14
 | 4/23/2015	| Lecture 11 | [XML and Xpath](https://docs.google.com/presentation/d/1O8gvKb77FkL7Rtl8yKeDgMQM9Q7OlWuq_uDLon556cw/pub?start=false&loop=false&delayms=3000) | Chapter 11-12|
 | 4/30/2015	| Lecture 12 | [Alternative Database Technologies](https://docs.google.com/presentation/d/1GHgI9iAZvfsNobjx4VaEMwU8bgRgSd8h6kKG3drViEA/pub?start=false&loop=false&delayms=3000) | |
@@ -79,8 +79,8 @@ Homework assignments are worth between 50 and 100 points, and are turned in elec
 
 * [Homework 1](hw/hw1.html)  - Due on 2/5/15
 * [Homework 2](hw/hw2.html)  - Due on 2/16/15
-* [Homework 3](hw/hw3.html)  - Due on 3/12/15
-* [Homework 4](hw/hw4.html)  - Due on 4/2/15
+* [Homework 3](hw/hw3.html)  - Due on 3/26/15
+* [Homework 4](hw/hw4.html)  - Due on 4/9/15
 * [Homework 5](hw/hw5.pdf)  - Due on 4/30/15
 
 ## Late Policy
@@ -91,18 +91,11 @@ Attendance will be recorded by the instructor and, along with class participatio
 
 ## Grading
 
-Weekly short quizzes	10%	(8-11 throughout the semester)
-Homework	20%	(3-5 throughout the semester)
-Exams	45%	(3 exams)
-Final Exam	25%
-
-
 | % | Activity | Frequency/Description
 |------------------:|:---------------|-------
-| 5%|Weekly short quizzes|5-8 throughout the semester
-|20%|Homework | 5 assignments
+|25%|Homework | 5 assignments
 |40%|Exams | 2 exams during the semester
-|30%|Final Exam | Comprehensive
+|35%|Final Exam | Comprehensive
 
 ## Academic Integrity
 Students are expected to read and understand Ramapo College’s Academic Integrity Policy, which can be found in the Ramapo College Catalog.  Members of the Ramapo College community are expected to be honest and forthright in their academic endeavors.  Students who are suspected of violating this policy will be referred to the Office of the Provost.

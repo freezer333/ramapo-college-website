@@ -9,7 +9,7 @@ Focus on the rise of online education, technology in education
   * [MOOC trends in 2014](https://www.class-central.com/report/moocs-stats-and-trends-2014/)
 
 ## Lecture Slides
-TBD
+<iframe src="https://docs.google.com/presentation/d/14k9-hgIUB164Wyxcdxqf3yA0iky_23rP6IsXp96Sovk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Course Discussion / Outline

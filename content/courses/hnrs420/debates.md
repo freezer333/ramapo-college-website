@@ -12,7 +12,7 @@ You should plan to have your debate nearly completed by the time you meet with m
 | 7|  3/23/15 	| [Off-the-grid - networks and technology of anonymity](lect07.html) |  How much surveillance is too much?  But what about the bad guys? | E | F | 3/2/15 |
 | 8|  3/30/15 	| [Innovation:  The cult of silicon valley and the young](lect08.html) |  Is age-ism in tech ok? For who? | G |H | 3/23/15 |
 |10| 4/6/15	| [Disruption Case-Study Education](lect10.html) | What is tech's role in education? | C |E | 3/30/15 |
-| 11| 4/13/15 	| [Net neutrality:  Who will control the internet](lect11.html) |Should net neutrality be law? | D | F | 3/30/15 |
+| 11| 4/13/15 	| [Net neutrality:  Who will control the internet](lect11.html) |Should net neutrality be law? | D | F | 4/6/15 |
 | 13| 4/27/15 	| [The fully automated society - what will we do? - Part 1](lect13.html) | Can an economy based on creative output instead of labor work? | B | G | 4/20/15 |
 | 14| 5/4/15 	| [The fully automated society - what will we do? - Part 2](lect14.html) | Is Automation a good thing? | A | H | 4/27/15 |
 
