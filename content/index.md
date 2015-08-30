@@ -1,6 +1,6 @@
 <img src="http://pages.ramapo.edu/~sfrees/images/photo.jpg" height="160" width="150" style="margin:35px;float:right"/>
 # Scott Frees
-Associate Professor, Computer Science
+Professor, Computer Science
 Ramapo College of New Jersey
 
 **Office**:  G315
@@ -12,17 +12,17 @@ Ramapo College of New Jersey
 505 Ramapo Valley Road
 Mahwah, NJ 07430
 
-## Course Schedule (Spring 2015)
+## Fall 2015 Course Schedule
 | |  | | |
 |:--|:--|:--|:--|
-|CMPS 148 - [Introduction to Computer Science 2](courses/cmps148/)| ASB 429 | Monday/Thursday|  9:45am - 11:15am|
-|CMPS 311 - [Operating Systems](courses/cmps311)| ASB 429 | Monday/Thursday|  11:30am - 1:00pm|
-|CMPS 364 - [Database Design](courses/cmps364)| ASB 426 | Thursday | 6:00pm - 9:00pm|
-|HNRS 420 - [Computation and Society](courses/hnrs420) | A 108 | Monday|2:00pm - 5:15pm|
+|CMPS 147 - [Introduction to Computer Science 1](courses/cmps147/Fall_Th/)| ASB 429| Thursdays, 6:00pm-9:30pm - Hybrid |
+|CMPS 147 - [Introduction to Computer Science 1](courses/cmps147/Fall_MWTh/)| ASB 429  | M-W-Th, 8:30am-9:40am - Hybrid |
+|CMPS 311 - [Operating Systems](courses/cmps311/)|  ASB 429 | M-W-Th,  10:00am-11:10am |
+|CMPS 369 - [Web Application Development](courses/cmps369/)|  ASB 429 | M-W-Th,  10:30am-12:40am |
 
-**Office Hours**:  Tuesdays 9-10:30am, Thursdays 1-2:30, or by appointment
+**Office Hours**:  4pm-5pm Mondays and Thursdays, or by appointment
 
-[See all the courses I teach on a regular basis](courses/courses.html)
+[See all the courses I teach on a regular basis](courses/)
 
 ## Publications
 1.	Frees, S. (2015) “[A place for Node.js in the Computer Science Curriculum](http://dl.acm.org/citation.cfm?id=2675341)”. Journal of Computing Sciences in Colleges. Volume 30, Issue 3.  pp 84-91

@@ -10,7 +10,7 @@ The course is specifically geared towards students with high aptitude in math, s
 
 **Attention Computer Science Majors**: this course does NOT count as one of your [7 required upper-level electives](http://www.ramapo.edu/catalog-2014-2015/tas/compscience/).  However, with approval, this course can be taken in conjunction with an additional project geared towards more advanced students which allows for it to count towards your 7 required electives through Ramapo's course equivelency procedures.  **See me for details**.
 
-## [CMPS 147 - Introduction to Computer Science](cmps147/winter)
+## [CMPS 147 - Introduction to Computer Science](cmps147/Fall_Th)
 An introduction to programming methodology including: basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
 
 *I teach this course frequently, including during both summer and winter sessions online.  This course is offered by CS faculty other than myself in the Spring and Fall on a regular basis as well.*

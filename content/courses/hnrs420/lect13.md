@@ -10,6 +10,8 @@ We'll begin discussing in depth the ideas presented in "Who Owns the Future", an
 * [Unpleasant Facts and Other Musings](http://unpleasantfacts.com/the-more-fungible-worker)
 * [Job Automation: Is a Future Unemployment Crisis Looming?](http://www.huffingtonpost.com/martin-ford/job-automation-is-a-futur_b_832146.html)
 * [Replacing Middle Management with APIs](http://rein.pk/replacing-middle-management-with-apis/)
+* [Will Your Job Be Done By A Machine](http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine)
+
 
 https://medium.com/basic-income/self-driving-trucks-are-going-to-hit-us-like-a-human-driven-truck-b8507d9c5961
 

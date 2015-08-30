@@ -1,3 +1,4 @@
 #!/bin/bash     
 cp ../classes/HNRS420/src/* ./content/courses/hnrs420/
+cp -r ../classes/CMPS147/site/* ./content/courses/cmps147/
 node build

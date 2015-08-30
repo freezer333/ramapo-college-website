@@ -1,23 +1,26 @@
 # CMPS 147 Winter 2015
 
 ## Introduction to Computer Science 1
-**Meeting Time:  **This is an online course
-**Location:  **This is an online course
-**Professor:**&nbsp;&nbsp;Scott Frees, Associate Professor of Computer Science
-** Contact Information**
 
-Office&nbsp;&nbsp;G315
-Phone&nbsp;&nbsp;(201) 684-7726
+**Meeting Time:  **This is an online course
+
+**Location:  **This is an online course
+
+**Professor:**&nbsp;&nbsp;Scott Frees, Associate Professor of Computer Science
+
+** Contact Information**<br/>
+Office&nbsp;&nbsp;G315<br/>
+Phone&nbsp;&nbsp;(201) 684-7726<br/>
 Email&nbsp;&nbsp;[sfrees@ramapo.edu](mailto:sfrees@ramapo.edu)
 
 ## Course Description
 An introduction to programming methodology including:  basic concepts of computer systems, the programming languages C/C++, algorithm design, program development, implementation, and testing.
 
 ## Online access
-While all modules/assignments are accessible from this site, we will use [moodle](http://moodle.ramapo.edu) to submit all programming assignments electronically.  **If you have never used moodle before, [click here](LoginNotesforCMPS147.html) for some brief instructions**.  If you have any difficulty - please ask me (email me) right away!
+While all modules/assignments are accessible from this site, we will use [appiversity](http://appiversity.com/Student/Login) to submit all programming assignments electronically.  **In mid-December, you should receive an email from appiversity with your account information**.
 
 ## About the online version of this course
-If you have never taken an online course, you may be surprised how easy it is to fall behind (especially during the holiday season!).  Below I have explained the way the course is organized, and if anything is unclear please email me ASAP.  The number one thing to remember is that you need to keep pace with the content on moodle, making sure that you master each week’s modules on a consistent basis.  Computer science, perhaps more than any other subject, builds from lesson to lesson.  There is no lesson/module that can be safely “skipped” - they will all come back to haunt you if you don’t understand them (or don’t try to learn them!).  **So please - keep up with the work**!.
+If you have never taken an online course, you may be surprised how easy it is to fall behind (especially during the holiday season!).  Below I have explained the way the course is organized, and if anything is unclear please email me ASAP.  The number one thing to remember is that you need to keep pace with the content on appiversity, making sure that you master each week’s modules on a consistent basis.  Computer science, perhaps more than any other subject, builds from lesson to lesson.  There is no lesson/module that can be safely “skipped” - they will all come back to haunt you if you don’t understand them (or don’t try to learn them!).  **So please - keep up with the work**!.
 
 ### How to get help:
 I will respond to emails very quickly, so whenever you are struggling with a concept, program, or anything else - please get in touch.  It is best to send me your code as an attachment with any email, so I can see precisely what you are doing.  I will hold office hours by appointment, just email me and we'll work out a time to meet on campus.
@@ -41,9 +44,9 @@ used throughout the semester.  The textbook can be purchased at the college book
 <a href='http://www.amazon.com/Introduction-Programming-3rd-Daniel-Liang/dp/0133252817/ref=sr_1_fkmr3_3?ie=UTF8&qid=1417271048&sr=8-3-fkmr3&keywords=Introduction+to+Programming+with+C%2B%2B+%28Brief+Version%29%3B+Lang%2C+Y.+Daniel%3B+ISBN%3A++0-13-232049'><img src='http://ecx.images-amazon.com/images/I/516vxstfV%2BL.jpg' height='200' width='140'/></a>
 
 # Course Objectives
-|Student Learning Outcomes| Lectures | Exams | Homework | CEC
+|Student Learning Outcomes| Lectures | Exams | Homework | CEC 
 |:--|----|--|--|--
-| Computer organization, Evolution/History of Programming Languages |X |X |X |X
+| Computer organization, Evolution/History of Programming Languages |X |X |X |X 
 | How to write and compile programs in several environments |X |X| X|
 |Data Types, Arithmetic and Logical Operators, Operator Precedence |X |X |X
 |Conditional / Branch Mechanisms |X |X |X
@@ -60,7 +63,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 ### Week 1 - 12/22 - 12/27
 | Module  | Topic | Lecture Slides|  Recorded Video
 |--|:--|:--|:--|:--
-| 0 | Course Policies | [Slides](https://docs.google.com/presentation/d/1Sggyft8QRdvOnpAxCT9wuvFkTrjg7AQaOKHEt50u4AQ/pub?start=false&loop=false&delayms=3000) | [Video](http://youtu.be/eIyNQPgySTc)
+| 0 | Course Policies | [Slides]() | [Video]()
 | 1 | Fundamentals of Computing | [Slides](https://docs.google.com/presentation/d/11QGJH0p3mvy7uSppzoAyRbQePkvz03sL8LJuFIUjykA/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/brLBuCwRcWc)
 | 2 | Programming Abstractions | [Slides](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video 1](http://youtu.be/XudnG5UWDM4) - [Video 2](http://youtu.be/kGtix9-Pr0o)
 | 3 | Syntax, Literals, Operators | [Slides](https://docs.google.com/presentation/d/1Czj8UntL0MBlzYiomOdn9I_lhG3m2ismnMtcTzM4Yvw/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/9TOcrOcc8BE)
@@ -105,27 +108,27 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 30 | The string class | [Slides](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/BI-ERMHEkZw)
 
 ## Programming Examples
-The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on moodle (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
+The majority of modules will include several programming examples.  The module’s video lecture will include a recording of the solution being developed.  Source code for solutions to the programming examples is also provided on appiversity (and below).  I highly recommend that you practice these examples without looking at the lecture videos or source code solutions as a method of preparing for the course’s exams.
 
 All programming example source code from the modules is found in [Programming Examples.zip](../ProgrammingExamples.zip)
 
 ## Recommended Pace
-I have organized moodle into 4 weeks, with each week containing several modules.  Programming example solutions are posted within the same week as the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and labs during the week they are posted.  Lab assignments (roughly 3 per week) and Homework assignments (one per week) are due Friday or Saturday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  
+I have organized appiversity into 4 weeks, with each week containing several modules.  Programming example solutions are posted within the same week as the modules they are presented in.  It is critical that you keep pace with the course and complete the modules and labs during the week they are posted.  Lab assignments (roughly 3 per week) and Homework assignments (one per week) are due Friday or Saturday (see individual assignments below) evenings at 11:59pm.  No late work will be accepted, so please try to start the programs early.  
 
-You may work ahead of the pace on moodle, and are encouraged to do so.  All contents is loaded onto moodle on the first day of class.  The pace set on moodle and above can be best thought of as your minimum pace.  
+You may work ahead of the pace on appiversity, and are encouraged to do so.  All contents is loaded onto appiversity on the first day of class.  The pace set on appiversity and above can be best thought of as your minimum pace.  
 
 The Mid Term exam (see proctoring details below in exam section) will include up to and including Module 18.  The Final Exam will be comprehensive and include content from all Modules
 
 # Course Assignments
-You learn to program best by… programming a lot!  In this course I will be expecting you to write 3-4 programs each week of varying length.  These will be in the form of Labs and Homework programs.  You must submit all programs on moodle through the appropriate assignment links at the top of the course page.  It is imperative that you only submit the .cpp (source code) files when turning in your assignments.  I will build your programs and run them, so always triple check that you are submitting source code, and not some other Visual Studio related file (there are many!).  Note, in the first Module’s video, I will provided details instructions on how to get this right.
+You learn to program best by… programming a lot!  In this course I will be expecting you to write 3-4 programs each week of varying length.  These will be in the form of Labs and Homework programs.  You must submit all programs on appiversity through the appropriate assignment links at the top of the course page.  It is imperative that you only submit the .cpp (source code) files when turning in your assignments.  I will build your programs and run them, so always triple check that you are submitting source code, and not some other Visual Studio related file (there are many!).  Note, in the first Module’s video, I will provided details instructions on how to get this right.
 
 ## Labs
-At the end of some of the modules in the course is a dedicated slide with a Lab assignment described.  The labs are designed to require about 45 minutes of your time, and are best completed directly after the watching the previous video modules - as they reinforce the specific topics covered since the previous lab.  Labs should be turned in to moodle by the due date listed in the table above.  **No late labs will be accepted**.
+At the end of some of the modules in the course is a dedicated slide with a Lab assignment described.  The labs are designed to require about 45 minutes of your time, and are best completed directly after the watching the previous video modules - as they reinforce the specific topics covered since the previous lab.  Labs should be turned in to appiversity by the due date listed in the table above.  **No late labs will be accepted**.
 
 Labs represent 10% of your semester grade, so each lab is actually only less than 1% of your overall grade.  Labs will be graded generously, and honest attempt at completing the problem will result in a 7 or 8 out of 10 points.  A working program will earn a 10/10.  The purpose of these labs is so I can review your progress each week and provide feedback to you.  Please make every attempt to complete each on by the assigned due date.
 
 
-|Link to Lab Assignment| Due Date
+|Link to Lab Assignment| Due Date 
 |--|----
 | [Lab 1](https://docs.google.com/presentation/d/1r7LFgpEr7sz_otPDK8zXKm2q9yPMg6eU2SORYuWTGa8/pub?start=false&loop=false&delayms=3000&slide=id.g33af15c55_0144) | 12/27/2014 (Saturday night)
 | [Lab 2](https://docs.google.com/presentation/d/1fbiI6n8cNwljDS2yUH-PR_Kr1UpfdgKizWuqt-5IIFE/pub?start=false&loop=false&delayms=3000&slide=id.g33b4d3301_0137) | 12/27/2014 (Saturday night)
@@ -139,11 +142,11 @@ Labs represent 10% of your semester grade, so each lab is actually only less tha
 | [Lab 10](https://docs.google.com/presentation/d/1B0iIV36zV3dGPDOR9dkzhWFzK4cd-kx2JdyxafbDVIs/pub?start=false&loop=false&delayms=3000#slide=id.g18157c949_018) | 1/9/2015 (Friday night)
 | [Lab 11](https://docs.google.com/presentation/d/1fAToX2anOHHDD7cOO_waRaIEc611T2dpaJOkjogtINI/pub?start=false&loop=false&delayms=3000#slide=id.g18156708b_0105) | **1/16/2015 (Friday night)**
 | [Lab 12](https://docs.google.com/presentation/d/1_dUq51eVXtDPvIn1NwVCCujF0rmLU-WFLOMFTsilzls/pub?start=false&loop=false&delayms=3000#slide=id.g33e80658c_0161) | **1/16/2015 (Friday night)**
-
+ 
 ## Homework
-There are four assigned homework problems, with due dates listed on moodle (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade, each being 5%.  Like labs, no late homework will be accepted.
+There are four assigned homework problems, with due dates listed on appiversity (and below).  Homework programs will likely require 3-6 hours of your time, and will be more involved and complex than your lab assignments.  I will provide more detailed feedback on homework, and grading will be more discerning.  Homework programs 20% of your semester grade, each being 5%.  Like labs, no late homework will be accepted.
 
-|Link to Homework Assignment| Due Date
+|Link to Homework Assignment| Due Date 
 |--|----
 | [Homework 1](../hw1/Homework1.html) | 12/27/2014 (Saturday night)
 | [Homework 2](../hw2/Homework2.html) |  1/3/2015 (Saturday night)
@@ -152,8 +155,6 @@ There are four assigned homework problems, with due dates listed on moodle (and 
 
 
 ## Exams (Mid Term and Final)
-All exams are open book, open notes, and open computer/internet - but you must use the machines in our labs.   The only thing you are not allowed to use is any social media/email/chat program that can allow you to communicate with others.  Exams will be a mix of actual coding, and some written questions.
-
 Midterm and Final Exams will be proctored, **meaning you will be required to come to campus twice during the four week semester**.  Special accommodations/waivers for this policy will be made on a case-by-case basis, typically for students who attend other institutions as their primary degree-granting school or Ramapo students who live beyond reasonable commuting distance (~1 hour) from campus.  **This must be negotiated with the instructor before December 26th 14th**.  
 
 Mid-Term exam will January 5th, and the final exam will be held on January 16th.  Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
@@ -165,7 +166,7 @@ Mid-Term exam will January 5th, and the final exam will be held on January 16th.
 
 You will be required to let me know in advance which session (9am or 6pm) you intend to attend.
 
-# Grading
+# Grading 
 
 | % | Activity
 |------------------:|:---------------

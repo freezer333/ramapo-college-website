@@ -80,7 +80,7 @@ The entire course has been broken into 30 individual modules.  Each module is po
 | 14 | Logical Operators | [Slides](https://docs.google.com/presentation/d/1E-4ps_HhL6_UeKZKHEBx2UNV11EVhyvkRmVxasE_llE/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/_nBD67cSfXE)
 | 15 | Switch Statement | [Slides](https://docs.google.com/presentation/d/1Z1k0SbFoIuHxBxrTYRKKFQeugB0HsqGU7YKRqznB1RM/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/QUo-bYuhm80)
 | 16 | While Loops | [Slides](https://docs.google.com/presentation/d/1r5dXEtPH_P6rzGMj22y-eYSLYzlFzbW5D4amzGNPM0o/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/rMue4Lb2utA)
-| 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1r5dXEtPH_P6rzGMj22y-eYSLYzlFzbW5D4amzGNPM0o/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/4VMQOH_F9Yk)
+| 17 | Do-while Loops | [Slides](https://docs.google.com/presentation/d/1oGnyXfB5INoikSthq8oBvni4HPDv9iRoCaY6e6tnxk4/pub?start=false&loop=false&delayms=3000) | [Video](http://youtu.be/4VMQOH_F9Yk)
 | 18 | for loops | [Slides](https://docs.google.com/presentation/d/1n_3UkxEgMk694mrvFymf7t3P9iNkizZXvES9NOrox-g/pub?start=false&loop=false&delayms=3000&slide=id.p) | [Video](http://youtu.be/U3S2JntuwQA)
 
 ### Week 3   Monday 7/20 - Sunday 7/26
@@ -157,7 +157,7 @@ There are four assigned homework problems, with due dates listed on moodle (and 
 ## Exams (Mid Term and Final)
 Midterm and Final Exams will be proctored, **meaning you will be required to come to campus twice during the five week semester**.  Special accommodations/waivers for this policy will be made on a case-by-case basis, typically for students who attend other institutions as their primary degree-granting school or Ramapo students who live beyond reasonable commuting distance (~1 hour) from campus.  **This must be negotiated with the instructor before July 10th**.  
 
-Mid-Term exam will July 21th, and the final exam will be held on August 6th.  Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
+Mid-Term exam will July 21th, and the final exam will be held on August 8th.  Exam proctoring will be scheduled with every attempt to accommodate student schedules, including a night session to allow working students to attend.  The exams will last 3 hours each.
 
 |  | Modules Covered | Date
 |--|---|---
