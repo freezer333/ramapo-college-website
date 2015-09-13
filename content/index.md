@@ -20,7 +20,7 @@ Mahwah, NJ 07430
 |CMPS 311 - [Operating Systems](courses/cmps311/)|  ASB 429 | M-W-Th,  10:00am-11:10am |
 |CMPS 369 - [Web Application Development](courses/cmps369/)|  ASB 429 | M-W-Th,  10:30am-12:40am |
 
-**Office Hours**:  4pm-5pm Mondays and Thursdays, or by appointment
+**Office Hours**:  Monday 12:45-1:45pm and Thursday 4-5pm, or by appointment
 
 [See all the courses I teach on a regular basis](courses/)
 
